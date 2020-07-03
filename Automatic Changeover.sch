@@ -15305,7 +15305,6 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <pinref part="IC2" gate="G$1" pin="VCC2"/>
 <pinref part="IC3" gate="G$1" pin="VCC2"/>
 <wire x1="60.96" y1="5.08" x2="43.18" y2="5.08" width="0.1524" layer="91"/>
-<junction x="60.96" y="5.08"/>
 <junction x="43.18" y="5.08"/>
 </segment>
 </net>
