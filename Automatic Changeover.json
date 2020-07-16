@@ -1,8 +1,61 @@
 {
     "EAGLE_version": "9.6.2",
     "drill_data": {
-        "count": 13,
+        "count": 14,
         "drill_groups": [
+            {
+                "count": 4,
+                "drills": [
+                    {
+                        "diameter_mil": "170.000000",
+                        "diameter_mm": "4.318000",
+                        "drill_type": "VIA",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "6550.000000",
+                        "x_mm": "166.370000",
+                        "y_mil": "150.000000",
+                        "y_mm": "3.810000"
+                    },
+                    {
+                        "diameter_mil": "170.000000",
+                        "diameter_mm": "4.318000",
+                        "drill_type": "VIA",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "6600.000000",
+                        "x_mm": "167.640000",
+                        "y_mil": "5950.000000",
+                        "y_mm": "151.130000"
+                    },
+                    {
+                        "diameter_mil": "170.000000",
+                        "diameter_mm": "4.318000",
+                        "drill_type": "VIA",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "0.000000",
+                        "x_mm": "0.000000",
+                        "y_mil": "5900.000000",
+                        "y_mm": "149.860000"
+                    },
+                    {
+                        "diameter_mil": "170.000000",
+                        "diameter_mm": "4.318000",
+                        "drill_type": "VIA",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "-50.000000",
+                        "x_mm": "-1.270000",
+                        "y_mil": "100.000000",
+                        "y_mm": "2.540000"
+                    }
+                ],
+                "max_diameter_mil": "170.000000",
+                "max_diameter_mm": "4.318000",
+                "min_diameter_mil": "170.000000",
+                "min_diameter_mm": "4.318000"
+            },
             {
                 "count": 3,
                 "drills": [
@@ -105,10 +158,10 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "3124.409449",
-                        "x_mm": "79.360000",
-                        "y_mil": "2600.000000",
-                        "y_mm": "66.040000"
+                        "x_mil": "4775.590551",
+                        "x_mm": "121.300000",
+                        "y_mil": "2550.000000",
+                        "y_mm": "64.770000"
                     },
                     {
                         "diameter_mil": "78.740157",
@@ -127,8 +180,8 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "5875.590551",
-                        "x_mm": "149.240000",
+                        "x_mil": "3124.409449",
+                        "x_mm": "79.360000",
                         "y_mil": "2600.000000",
                         "y_mm": "66.040000"
                     },
@@ -160,10 +213,10 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "4775.590551",
-                        "x_mm": "121.300000",
-                        "y_mil": "2550.000000",
-                        "y_mm": "64.770000"
+                        "x_mil": "5875.590551",
+                        "x_mm": "149.240000",
+                        "y_mil": "2600.000000",
+                        "y_mm": "66.040000"
                     }
                 ],
                 "max_diameter_mil": "78.740157",
@@ -174,17 +227,6 @@
             {
                 "count": 16,
                 "drills": [
-                    {
-                        "diameter_mil": "63.000000",
-                        "diameter_mm": "1.600200",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "2050.000000",
-                        "x_mm": "52.070000",
-                        "y_mil": "5500.000000",
-                        "y_mm": "139.700000"
-                    },
                     {
                         "diameter_mil": "63.000000",
                         "diameter_mm": "1.600200",
@@ -290,6 +332,17 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
+                        "x_mil": "5600.000000",
+                        "x_mm": "142.240000",
+                        "y_mil": "1200.000000",
+                        "y_mm": "30.480000"
+                    },
+                    {
+                        "diameter_mil": "63.000000",
+                        "diameter_mm": "1.600200",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
                         "x_mil": "5800.000000",
                         "x_mm": "147.320000",
                         "y_mil": "1200.000000",
@@ -345,10 +398,10 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "5600.000000",
-                        "x_mm": "142.240000",
-                        "y_mil": "1200.000000",
-                        "y_mm": "30.480000"
+                        "x_mil": "2050.000000",
+                        "x_mm": "52.070000",
+                        "y_mil": "5500.000000",
+                        "y_mm": "139.700000"
                     }
                 ],
                 "max_diameter_mil": "63.000000",
@@ -359,72 +412,6 @@
             {
                 "count": 8,
                 "drills": [
-                    {
-                        "diameter_mil": "55.000000",
-                        "diameter_mm": "1.397000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "6000.000000",
-                        "x_mm": "152.400000",
-                        "y_mil": "4900.000000",
-                        "y_mm": "124.460000"
-                    },
-                    {
-                        "diameter_mil": "55.000000",
-                        "diameter_mm": "1.397000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "6050.000000",
-                        "x_mm": "153.670000",
-                        "y_mil": "4400.000000",
-                        "y_mm": "111.760000"
-                    },
-                    {
-                        "diameter_mil": "55.000000",
-                        "diameter_mm": "1.397000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "5550.000000",
-                        "x_mm": "140.970000",
-                        "y_mil": "5650.000000",
-                        "y_mm": "143.510000"
-                    },
-                    {
-                        "diameter_mil": "55.000000",
-                        "diameter_mm": "1.397000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "5050.000000",
-                        "x_mm": "128.270000",
-                        "y_mil": "5550.000000",
-                        "y_mm": "140.970000"
-                    },
-                    {
-                        "diameter_mil": "55.000000",
-                        "diameter_mm": "1.397000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "4650.000000",
-                        "x_mm": "118.110000",
-                        "y_mil": "5550.000000",
-                        "y_mm": "140.970000"
-                    },
-                    {
-                        "diameter_mil": "55.000000",
-                        "diameter_mm": "1.397000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "5950.000000",
-                        "x_mm": "151.130000",
-                        "y_mil": "5650.000000",
-                        "y_mm": "143.510000"
-                    },
                     {
                         "diameter_mil": "55.000000",
                         "diameter_mm": "1.397000",
@@ -446,6 +433,72 @@
                         "x_mm": "106.680000",
                         "y_mil": "5550.000000",
                         "y_mm": "140.970000"
+                    },
+                    {
+                        "diameter_mil": "55.000000",
+                        "diameter_mm": "1.397000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "6050.000000",
+                        "x_mm": "153.670000",
+                        "y_mil": "4400.000000",
+                        "y_mm": "111.760000"
+                    },
+                    {
+                        "diameter_mil": "55.000000",
+                        "diameter_mm": "1.397000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "4650.000000",
+                        "x_mm": "118.110000",
+                        "y_mil": "5550.000000",
+                        "y_mm": "140.970000"
+                    },
+                    {
+                        "diameter_mil": "55.000000",
+                        "diameter_mm": "1.397000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "5050.000000",
+                        "x_mm": "128.270000",
+                        "y_mil": "5550.000000",
+                        "y_mm": "140.970000"
+                    },
+                    {
+                        "diameter_mil": "55.000000",
+                        "diameter_mm": "1.397000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "5550.000000",
+                        "x_mm": "140.970000",
+                        "y_mil": "5650.000000",
+                        "y_mm": "143.510000"
+                    },
+                    {
+                        "diameter_mil": "55.000000",
+                        "diameter_mm": "1.397000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "5950.000000",
+                        "x_mm": "151.130000",
+                        "y_mil": "5650.000000",
+                        "y_mm": "143.510000"
+                    },
+                    {
+                        "diameter_mil": "55.000000",
+                        "diameter_mm": "1.397000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "6000.000000",
+                        "x_mm": "152.400000",
+                        "y_mil": "4900.000000",
+                        "y_mm": "124.460000"
                     }
                 ],
                 "max_diameter_mil": "55.000000",
@@ -456,17 +509,6 @@
             {
                 "count": 6,
                 "drills": [
-                    {
-                        "diameter_mil": "44.000000",
-                        "diameter_mm": "1.117600",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "900.000000",
-                        "x_mm": "22.860000",
-                        "y_mil": "5050.000000",
-                        "y_mm": "128.270000"
-                    },
                     {
                         "diameter_mil": "44.000000",
                         "diameter_mm": "1.117600",
@@ -497,6 +539,17 @@
                         "start_layer": 1,
                         "x_mil": "900.000000",
                         "x_mm": "22.860000",
+                        "y_mil": "5050.000000",
+                        "y_mm": "128.270000"
+                    },
+                    {
+                        "diameter_mil": "44.000000",
+                        "diameter_mm": "1.117600",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "900.000000",
+                        "x_mm": "22.860000",
                         "y_mil": "4550.000000",
                         "y_mm": "115.570000"
                     },
@@ -508,8 +561,8 @@
                         "start_layer": 1,
                         "x_mil": "900.000000",
                         "x_mm": "22.860000",
-                        "y_mil": "5600.000000",
-                        "y_mm": "142.240000"
+                        "y_mil": "5200.000000",
+                        "y_mm": "132.080000"
                     },
                     {
                         "diameter_mil": "44.000000",
@@ -519,8 +572,8 @@
                         "start_layer": 1,
                         "x_mil": "900.000000",
                         "x_mm": "22.860000",
-                        "y_mil": "5200.000000",
-                        "y_mm": "132.080000"
+                        "y_mil": "5600.000000",
+                        "y_mm": "142.240000"
                     }
                 ],
                 "max_diameter_mil": "44.000000",
@@ -537,10 +590,10 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "350.000000",
-                        "x_mm": "8.890000",
-                        "y_mil": "3150.000000",
-                        "y_mm": "80.010000"
+                        "x_mil": "1222.000000",
+                        "x_mm": "31.038800",
+                        "y_mil": "2811.000000",
+                        "y_mm": "71.399400"
                     },
                     {
                         "diameter_mil": "40.000000",
@@ -548,10 +601,10 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "450.000000",
-                        "x_mm": "11.430000",
-                        "y_mil": "3250.000000",
-                        "y_mm": "82.550000"
+                        "x_mil": "1222.000000",
+                        "x_mm": "31.038800",
+                        "y_mil": "2989.000000",
+                        "y_mm": "75.920600"
                     },
                     {
                         "diameter_mil": "40.000000",
@@ -559,21 +612,10 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "450.000000",
-                        "x_mm": "11.430000",
-                        "y_mil": "3150.000000",
-                        "y_mm": "80.010000"
-                    },
-                    {
-                        "diameter_mil": "40.000000",
-                        "diameter_mm": "1.016000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "550.000000",
-                        "x_mm": "13.970000",
-                        "y_mil": "3250.000000",
-                        "y_mm": "82.550000"
+                        "x_mil": "1478.000000",
+                        "x_mm": "37.541200",
+                        "y_mil": "2989.000000",
+                        "y_mm": "75.920600"
                     },
                     {
                         "diameter_mil": "40.000000",
@@ -583,39 +625,6 @@
                         "start_layer": 1,
                         "x_mil": "350.000000",
                         "x_mm": "8.890000",
-                        "y_mil": "3600.000000",
-                        "y_mm": "91.440000"
-                    },
-                    {
-                        "diameter_mil": "40.000000",
-                        "diameter_mm": "1.016000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "550.000000",
-                        "x_mm": "13.970000",
-                        "y_mil": "3700.000000",
-                        "y_mm": "93.980000"
-                    },
-                    {
-                        "diameter_mil": "40.000000",
-                        "diameter_mm": "1.016000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "550.000000",
-                        "x_mm": "13.970000",
-                        "y_mil": "3600.000000",
-                        "y_mm": "91.440000"
-                    },
-                    {
-                        "diameter_mil": "40.000000",
-                        "diameter_mm": "1.016000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "550.000000",
-                        "x_mm": "13.970000",
                         "y_mil": "3150.000000",
                         "y_mm": "80.010000"
                     },
@@ -638,19 +647,8 @@
                         "start_layer": 1,
                         "x_mil": "450.000000",
                         "x_mm": "11.430000",
-                        "y_mil": "3700.000000",
-                        "y_mm": "93.980000"
-                    },
-                    {
-                        "diameter_mil": "40.000000",
-                        "diameter_mm": "1.016000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "350.000000",
-                        "x_mm": "8.890000",
-                        "y_mil": "3700.000000",
-                        "y_mm": "93.980000"
+                        "y_mil": "3150.000000",
+                        "y_mm": "80.010000"
                     },
                     {
                         "diameter_mil": "40.000000",
@@ -660,6 +658,39 @@
                         "start_layer": 1,
                         "x_mil": "450.000000",
                         "x_mm": "11.430000",
+                        "y_mil": "3250.000000",
+                        "y_mm": "82.550000"
+                    },
+                    {
+                        "diameter_mil": "40.000000",
+                        "diameter_mm": "1.016000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "550.000000",
+                        "x_mm": "13.970000",
+                        "y_mil": "3150.000000",
+                        "y_mm": "80.010000"
+                    },
+                    {
+                        "diameter_mil": "40.000000",
+                        "diameter_mm": "1.016000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "550.000000",
+                        "x_mm": "13.970000",
+                        "y_mil": "3250.000000",
+                        "y_mm": "82.550000"
+                    },
+                    {
+                        "diameter_mil": "40.000000",
+                        "diameter_mm": "1.016000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "550.000000",
+                        "x_mm": "13.970000",
                         "y_mil": "3600.000000",
                         "y_mm": "91.440000"
                     },
@@ -680,10 +711,10 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "1478.000000",
-                        "x_mm": "37.541200",
-                        "y_mil": "2989.000000",
-                        "y_mm": "75.920600"
+                        "x_mil": "350.000000",
+                        "x_mm": "8.890000",
+                        "y_mil": "3600.000000",
+                        "y_mm": "91.440000"
                     },
                     {
                         "diameter_mil": "40.000000",
@@ -691,10 +722,10 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "1222.000000",
-                        "x_mm": "31.038800",
-                        "y_mil": "2811.000000",
-                        "y_mm": "71.399400"
+                        "x_mil": "350.000000",
+                        "x_mm": "8.890000",
+                        "y_mil": "3700.000000",
+                        "y_mm": "93.980000"
                     },
                     {
                         "diameter_mil": "40.000000",
@@ -702,10 +733,32 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "1222.000000",
-                        "x_mm": "31.038800",
-                        "y_mil": "2989.000000",
-                        "y_mm": "75.920600"
+                        "x_mil": "450.000000",
+                        "x_mm": "11.430000",
+                        "y_mil": "3600.000000",
+                        "y_mm": "91.440000"
+                    },
+                    {
+                        "diameter_mil": "40.000000",
+                        "diameter_mm": "1.016000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "550.000000",
+                        "x_mm": "13.970000",
+                        "y_mil": "3700.000000",
+                        "y_mm": "93.980000"
+                    },
+                    {
+                        "diameter_mil": "40.000000",
+                        "diameter_mm": "1.016000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "450.000000",
+                        "x_mm": "11.430000",
+                        "y_mil": "3700.000000",
+                        "y_mm": "93.980000"
                     }
                 ],
                 "max_diameter_mil": "40.000000",
@@ -722,142 +775,10 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "5400.000000",
-                        "x_mm": "137.160000",
-                        "y_mil": "4950.000000",
-                        "y_mm": "125.730000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "5500.000000",
-                        "x_mm": "139.700000",
-                        "y_mil": "4950.000000",
-                        "y_mm": "125.730000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "1050.000000",
-                        "x_mm": "26.670000",
-                        "y_mil": "425.000000",
-                        "y_mm": "10.795000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
                         "x_mil": "150.000000",
                         "x_mm": "3.810000",
-                        "y_mil": "425.000000",
-                        "y_mm": "10.795000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "1050.000000",
-                        "x_mm": "26.670000",
-                        "y_mil": "1125.000000",
-                        "y_mm": "28.575000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "1050.000000",
-                        "x_mm": "26.670000",
-                        "y_mil": "1025.000000",
-                        "y_mm": "26.035000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "1050.000000",
-                        "x_mm": "26.670000",
-                        "y_mil": "925.000000",
-                        "y_mm": "23.495000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "1050.000000",
-                        "x_mm": "26.670000",
                         "y_mil": "825.000000",
                         "y_mm": "20.955000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "1050.000000",
-                        "x_mm": "26.670000",
-                        "y_mil": "725.000000",
-                        "y_mm": "18.415000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "1050.000000",
-                        "x_mm": "26.670000",
-                        "y_mil": "625.000000",
-                        "y_mm": "15.875000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "1050.000000",
-                        "x_mm": "26.670000",
-                        "y_mil": "525.000000",
-                        "y_mm": "13.335000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "150.000000",
-                        "x_mm": "3.810000",
-                        "y_mil": "1125.000000",
-                        "y_mm": "28.575000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "150.000000",
-                        "x_mm": "3.810000",
-                        "y_mil": "1025.000000",
-                        "y_mm": "26.035000"
                     },
                     {
                         "diameter_mil": "39.370079",
@@ -878,8 +799,8 @@
                         "start_layer": 1,
                         "x_mil": "150.000000",
                         "x_mm": "3.810000",
-                        "y_mil": "825.000000",
-                        "y_mm": "20.955000"
+                        "y_mil": "1025.000000",
+                        "y_mm": "26.035000"
                     },
                     {
                         "diameter_mil": "39.370079",
@@ -889,8 +810,8 @@
                         "start_layer": 1,
                         "x_mil": "150.000000",
                         "x_mm": "3.810000",
-                        "y_mil": "725.000000",
-                        "y_mm": "18.415000"
+                        "y_mil": "1125.000000",
+                        "y_mm": "28.575000"
                     },
                     {
                         "diameter_mil": "39.370079",
@@ -898,19 +819,8 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "150.000000",
-                        "x_mm": "3.810000",
-                        "y_mil": "625.000000",
-                        "y_mm": "15.875000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "150.000000",
-                        "x_mm": "3.810000",
+                        "x_mil": "1050.000000",
+                        "x_mm": "26.670000",
                         "y_mil": "525.000000",
                         "y_mm": "13.335000"
                     },
@@ -920,10 +830,10 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "2600.000000",
-                        "x_mm": "66.040000",
-                        "y_mil": "1250.000000",
-                        "y_mm": "31.750000"
+                        "x_mil": "1050.000000",
+                        "x_mm": "26.670000",
+                        "y_mil": "625.000000",
+                        "y_mm": "15.875000"
                     },
                     {
                         "diameter_mil": "39.370079",
@@ -931,10 +841,10 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "2600.000000",
-                        "x_mm": "66.040000",
-                        "y_mil": "1350.000000",
-                        "y_mm": "34.290000"
+                        "x_mil": "1050.000000",
+                        "x_mm": "26.670000",
+                        "y_mil": "725.000000",
+                        "y_mm": "18.415000"
                     },
                     {
                         "diameter_mil": "39.370079",
@@ -942,10 +852,10 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "2600.000000",
-                        "x_mm": "66.040000",
-                        "y_mil": "1450.000000",
-                        "y_mm": "36.830000"
+                        "x_mil": "1050.000000",
+                        "x_mm": "26.670000",
+                        "y_mil": "825.000000",
+                        "y_mm": "20.955000"
                     },
                     {
                         "diameter_mil": "39.370079",
@@ -953,10 +863,10 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "2600.000000",
-                        "x_mm": "66.040000",
-                        "y_mil": "1550.000000",
-                        "y_mm": "39.370000"
+                        "x_mil": "1050.000000",
+                        "x_mm": "26.670000",
+                        "y_mil": "925.000000",
+                        "y_mm": "23.495000"
                     },
                     {
                         "diameter_mil": "39.370079",
@@ -964,10 +874,10 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "2600.000000",
-                        "x_mm": "66.040000",
-                        "y_mil": "1650.000000",
-                        "y_mm": "41.910000"
+                        "x_mil": "1050.000000",
+                        "x_mm": "26.670000",
+                        "y_mil": "1025.000000",
+                        "y_mm": "26.035000"
                     },
                     {
                         "diameter_mil": "39.370079",
@@ -975,472 +885,10 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "2600.000000",
-                        "x_mm": "66.040000",
-                        "y_mil": "1750.000000",
-                        "y_mm": "44.450000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "2600.000000",
-                        "x_mm": "66.040000",
-                        "y_mil": "1850.000000",
-                        "y_mm": "46.990000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3200.000000",
-                        "x_mm": "81.280000",
-                        "y_mil": "3900.000000",
-                        "y_mm": "99.060000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3300.000000",
-                        "x_mm": "83.820000",
-                        "y_mil": "3900.000000",
-                        "y_mm": "99.060000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "2600.000000",
-                        "x_mm": "66.040000",
-                        "y_mil": "1950.000000",
-                        "y_mm": "49.530000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "1450.000000",
-                        "x_mm": "36.830000",
-                        "y_mil": "2100.000000",
-                        "y_mm": "53.340000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "1450.000000",
-                        "x_mm": "36.830000",
-                        "y_mil": "2200.000000",
-                        "y_mm": "55.880000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "1550.000000",
-                        "x_mm": "39.370000",
-                        "y_mil": "2100.000000",
-                        "y_mm": "53.340000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "1550.000000",
-                        "x_mm": "39.370000",
-                        "y_mil": "2200.000000",
-                        "y_mm": "55.880000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "1650.000000",
-                        "x_mm": "41.910000",
-                        "y_mil": "2100.000000",
-                        "y_mm": "53.340000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "1650.000000",
-                        "x_mm": "41.910000",
-                        "y_mil": "2200.000000",
-                        "y_mm": "55.880000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "1750.000000",
-                        "x_mm": "44.450000",
-                        "y_mil": "2100.000000",
-                        "y_mm": "53.340000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "1750.000000",
-                        "x_mm": "44.450000",
-                        "y_mil": "2200.000000",
-                        "y_mm": "55.880000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "1850.000000",
-                        "x_mm": "46.990000",
-                        "y_mil": "2100.000000",
-                        "y_mm": "53.340000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "1850.000000",
-                        "x_mm": "46.990000",
-                        "y_mil": "2200.000000",
-                        "y_mm": "55.880000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "1950.000000",
-                        "x_mm": "49.530000",
-                        "y_mil": "2100.000000",
-                        "y_mm": "53.340000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "1950.000000",
-                        "x_mm": "49.530000",
-                        "y_mil": "2200.000000",
-                        "y_mm": "55.880000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "2050.000000",
-                        "x_mm": "52.070000",
-                        "y_mil": "2100.000000",
-                        "y_mm": "53.340000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "2050.000000",
-                        "x_mm": "52.070000",
-                        "y_mil": "2200.000000",
-                        "y_mm": "55.880000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "2150.000000",
-                        "x_mm": "54.610000",
-                        "y_mil": "2100.000000",
-                        "y_mm": "53.340000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "2150.000000",
-                        "x_mm": "54.610000",
-                        "y_mil": "2200.000000",
-                        "y_mm": "55.880000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "800.000000",
-                        "x_mm": "20.320000",
-                        "y_mil": "1850.000000",
-                        "y_mm": "46.990000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "700.000000",
-                        "x_mm": "17.780000",
-                        "y_mil": "1850.000000",
-                        "y_mm": "46.990000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "600.000000",
-                        "x_mm": "15.240000",
-                        "y_mil": "1850.000000",
-                        "y_mm": "46.990000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "500.000000",
-                        "x_mm": "12.700000",
-                        "y_mil": "1850.000000",
-                        "y_mm": "46.990000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "400.000000",
-                        "x_mm": "10.160000",
-                        "y_mil": "1850.000000",
-                        "y_mm": "46.990000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3600.000000",
-                        "x_mm": "91.440000",
-                        "y_mil": "3900.000000",
-                        "y_mm": "99.060000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "800.000000",
-                        "x_mm": "20.320000",
-                        "y_mil": "2250.000000",
-                        "y_mm": "57.150000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "700.000000",
-                        "x_mm": "17.780000",
-                        "y_mil": "2250.000000",
-                        "y_mm": "57.150000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "600.000000",
-                        "x_mm": "15.240000",
-                        "y_mil": "2250.000000",
-                        "y_mm": "57.150000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "500.000000",
-                        "x_mm": "12.700000",
-                        "y_mil": "2250.000000",
-                        "y_mm": "57.150000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "400.000000",
-                        "x_mm": "10.160000",
-                        "y_mil": "2250.000000",
-                        "y_mm": "57.150000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "300.000000",
-                        "x_mm": "7.620000",
-                        "y_mil": "2250.000000",
-                        "y_mm": "57.150000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "700.000000",
-                        "x_mm": "17.780000",
-                        "y_mil": "2800.000000",
-                        "y_mm": "71.120000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "700.000000",
-                        "x_mm": "17.780000",
-                        "y_mil": "2700.000000",
-                        "y_mm": "68.580000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "700.000000",
-                        "x_mm": "17.780000",
-                        "y_mil": "2600.000000",
-                        "y_mm": "66.040000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "700.000000",
-                        "x_mm": "17.780000",
-                        "y_mil": "2500.000000",
-                        "y_mm": "63.500000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3800.000000",
-                        "x_mm": "96.520000",
-                        "y_mil": "3900.000000",
-                        "y_mm": "99.060000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3750.000000",
-                        "x_mm": "95.250000",
-                        "y_mil": "4950.000000",
-                        "y_mm": "125.730000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3650.000000",
-                        "x_mm": "92.710000",
-                        "y_mil": "4950.000000",
-                        "y_mm": "125.730000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3350.000000",
-                        "x_mm": "85.090000",
-                        "y_mil": "4950.000000",
-                        "y_mm": "125.730000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3150.000000",
-                        "x_mm": "80.010000",
-                        "y_mil": "4950.000000",
-                        "y_mm": "125.730000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "4650.000000",
-                        "x_mm": "118.110000",
-                        "y_mil": "4950.000000",
-                        "y_mm": "125.730000"
+                        "x_mil": "1050.000000",
+                        "x_mm": "26.670000",
+                        "y_mil": "1125.000000",
+                        "y_mm": "28.575000"
                     },
                     {
                         "diameter_mil": "39.370079",
@@ -1459,10 +907,10 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "300.000000",
-                        "x_mm": "7.620000",
-                        "y_mil": "1850.000000",
-                        "y_mm": "46.990000"
+                        "x_mil": "150.000000",
+                        "x_mm": "3.810000",
+                        "y_mil": "425.000000",
+                        "y_mm": "10.795000"
                     },
                     {
                         "diameter_mil": "39.370079",
@@ -1470,87 +918,10 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "1250.000000",
-                        "x_mm": "31.750000",
-                        "y_mil": "5400.000000",
-                        "y_mm": "137.160000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "1550.000000",
-                        "x_mm": "39.370000",
-                        "y_mil": "5400.000000",
-                        "y_mm": "137.160000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "1250.000000",
-                        "x_mm": "31.750000",
-                        "y_mil": "5550.000000",
-                        "y_mm": "140.970000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "1550.000000",
-                        "x_mm": "39.370000",
-                        "y_mil": "5550.000000",
-                        "y_mm": "140.970000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "1250.000000",
-                        "x_mm": "31.750000",
-                        "y_mil": "5250.000000",
-                        "y_mm": "133.350000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "1550.000000",
-                        "x_mm": "39.370000",
-                        "y_mil": "5250.000000",
-                        "y_mm": "133.350000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "4250.000000",
-                        "x_mm": "107.950000",
-                        "y_mil": "4950.000000",
-                        "y_mm": "125.730000"
-                    },
-                    {
-                        "diameter_mil": "39.370079",
-                        "diameter_mm": "1.000000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "4050.000000",
-                        "x_mm": "102.870000",
-                        "y_mil": "4950.000000",
-                        "y_mm": "125.730000"
+                        "x_mil": "1050.000000",
+                        "x_mm": "26.670000",
+                        "y_mil": "425.000000",
+                        "y_mm": "10.795000"
                     },
                     {
                         "diameter_mil": "39.370079",
@@ -1580,10 +951,10 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "5350.000000",
-                        "x_mm": "135.890000",
-                        "y_mil": "3950.000000",
-                        "y_mm": "100.330000"
+                        "x_mil": "5400.000000",
+                        "x_mm": "137.160000",
+                        "y_mil": "4950.000000",
+                        "y_mm": "125.730000"
                     },
                     {
                         "diameter_mil": "39.370079",
@@ -1591,10 +962,10 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "5450.000000",
-                        "x_mm": "138.430000",
-                        "y_mil": "3950.000000",
-                        "y_mm": "100.330000"
+                        "x_mil": "5500.000000",
+                        "x_mm": "139.700000",
+                        "y_mil": "4950.000000",
+                        "y_mm": "125.730000"
                     },
                     {
                         "diameter_mil": "39.370079",
@@ -1602,10 +973,10 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "5750.000000",
-                        "x_mm": "146.050000",
-                        "y_mil": "3950.000000",
-                        "y_mm": "100.330000"
+                        "x_mil": "4050.000000",
+                        "x_mm": "102.870000",
+                        "y_mil": "4950.000000",
+                        "y_mm": "125.730000"
                     },
                     {
                         "diameter_mil": "39.370079",
@@ -1613,10 +984,10 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "5950.000000",
-                        "x_mm": "151.130000",
-                        "y_mil": "3950.000000",
-                        "y_mm": "100.330000"
+                        "x_mil": "4250.000000",
+                        "x_mm": "107.950000",
+                        "y_mil": "4950.000000",
+                        "y_mm": "125.730000"
                     },
                     {
                         "diameter_mil": "39.370079",
@@ -1624,8 +995,74 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "4100.000000",
-                        "x_mm": "104.140000",
+                        "x_mil": "150.000000",
+                        "x_mm": "3.810000",
+                        "y_mil": "725.000000",
+                        "y_mm": "18.415000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "4650.000000",
+                        "x_mm": "118.110000",
+                        "y_mil": "4950.000000",
+                        "y_mm": "125.730000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "3150.000000",
+                        "x_mm": "80.010000",
+                        "y_mil": "4950.000000",
+                        "y_mm": "125.730000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "3350.000000",
+                        "x_mm": "85.090000",
+                        "y_mil": "4950.000000",
+                        "y_mm": "125.730000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "3650.000000",
+                        "x_mm": "92.710000",
+                        "y_mil": "4950.000000",
+                        "y_mm": "125.730000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "3750.000000",
+                        "x_mm": "95.250000",
+                        "y_mil": "4950.000000",
+                        "y_mm": "125.730000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "3800.000000",
+                        "x_mm": "96.520000",
                         "y_mil": "3900.000000",
                         "y_mm": "99.060000"
                     },
@@ -1635,8 +1072,41 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "4200.000000",
-                        "x_mm": "106.680000",
+                        "x_mil": "3600.000000",
+                        "x_mm": "91.440000",
+                        "y_mil": "3900.000000",
+                        "y_mm": "99.060000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "3300.000000",
+                        "x_mm": "83.820000",
+                        "y_mil": "3900.000000",
+                        "y_mm": "99.060000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "3200.000000",
+                        "x_mm": "81.280000",
+                        "y_mil": "3900.000000",
+                        "y_mm": "99.060000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "4700.000000",
+                        "x_mm": "119.380000",
                         "y_mil": "3900.000000",
                         "y_mm": "99.060000"
                     },
@@ -1657,10 +1127,593 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "4700.000000",
-                        "x_mm": "119.380000",
+                        "x_mil": "4200.000000",
+                        "x_mm": "106.680000",
                         "y_mil": "3900.000000",
                         "y_mm": "99.060000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "4100.000000",
+                        "x_mm": "104.140000",
+                        "y_mil": "3900.000000",
+                        "y_mm": "99.060000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "5950.000000",
+                        "x_mm": "151.130000",
+                        "y_mil": "3950.000000",
+                        "y_mm": "100.330000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "5750.000000",
+                        "x_mm": "146.050000",
+                        "y_mil": "3950.000000",
+                        "y_mm": "100.330000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "5450.000000",
+                        "x_mm": "138.430000",
+                        "y_mil": "3950.000000",
+                        "y_mm": "100.330000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "5350.000000",
+                        "x_mm": "135.890000",
+                        "y_mil": "3950.000000",
+                        "y_mm": "100.330000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "1550.000000",
+                        "x_mm": "39.370000",
+                        "y_mil": "5250.000000",
+                        "y_mm": "133.350000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "1250.000000",
+                        "x_mm": "31.750000",
+                        "y_mil": "5250.000000",
+                        "y_mm": "133.350000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "1550.000000",
+                        "x_mm": "39.370000",
+                        "y_mil": "5550.000000",
+                        "y_mm": "140.970000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "1250.000000",
+                        "x_mm": "31.750000",
+                        "y_mil": "5550.000000",
+                        "y_mm": "140.970000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "1550.000000",
+                        "x_mm": "39.370000",
+                        "y_mil": "5400.000000",
+                        "y_mm": "137.160000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "1250.000000",
+                        "x_mm": "31.750000",
+                        "y_mil": "5400.000000",
+                        "y_mm": "137.160000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "700.000000",
+                        "x_mm": "17.780000",
+                        "y_mil": "2500.000000",
+                        "y_mm": "63.500000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "700.000000",
+                        "x_mm": "17.780000",
+                        "y_mil": "2600.000000",
+                        "y_mm": "66.040000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "700.000000",
+                        "x_mm": "17.780000",
+                        "y_mil": "2700.000000",
+                        "y_mm": "68.580000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "700.000000",
+                        "x_mm": "17.780000",
+                        "y_mil": "2800.000000",
+                        "y_mm": "71.120000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "300.000000",
+                        "x_mm": "7.620000",
+                        "y_mil": "2250.000000",
+                        "y_mm": "57.150000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "400.000000",
+                        "x_mm": "10.160000",
+                        "y_mil": "2250.000000",
+                        "y_mm": "57.150000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "500.000000",
+                        "x_mm": "12.700000",
+                        "y_mil": "2250.000000",
+                        "y_mm": "57.150000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "600.000000",
+                        "x_mm": "15.240000",
+                        "y_mil": "2250.000000",
+                        "y_mm": "57.150000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "700.000000",
+                        "x_mm": "17.780000",
+                        "y_mil": "2250.000000",
+                        "y_mm": "57.150000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "800.000000",
+                        "x_mm": "20.320000",
+                        "y_mil": "2250.000000",
+                        "y_mm": "57.150000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "300.000000",
+                        "x_mm": "7.620000",
+                        "y_mil": "1850.000000",
+                        "y_mm": "46.990000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "400.000000",
+                        "x_mm": "10.160000",
+                        "y_mil": "1850.000000",
+                        "y_mm": "46.990000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "500.000000",
+                        "x_mm": "12.700000",
+                        "y_mil": "1850.000000",
+                        "y_mm": "46.990000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "600.000000",
+                        "x_mm": "15.240000",
+                        "y_mil": "1850.000000",
+                        "y_mm": "46.990000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "700.000000",
+                        "x_mm": "17.780000",
+                        "y_mil": "1850.000000",
+                        "y_mm": "46.990000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "800.000000",
+                        "x_mm": "20.320000",
+                        "y_mil": "1850.000000",
+                        "y_mm": "46.990000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "2150.000000",
+                        "x_mm": "54.610000",
+                        "y_mil": "2200.000000",
+                        "y_mm": "55.880000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "2150.000000",
+                        "x_mm": "54.610000",
+                        "y_mil": "2100.000000",
+                        "y_mm": "53.340000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "2050.000000",
+                        "x_mm": "52.070000",
+                        "y_mil": "2200.000000",
+                        "y_mm": "55.880000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "2050.000000",
+                        "x_mm": "52.070000",
+                        "y_mil": "2100.000000",
+                        "y_mm": "53.340000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "1950.000000",
+                        "x_mm": "49.530000",
+                        "y_mil": "2200.000000",
+                        "y_mm": "55.880000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "1950.000000",
+                        "x_mm": "49.530000",
+                        "y_mil": "2100.000000",
+                        "y_mm": "53.340000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "1850.000000",
+                        "x_mm": "46.990000",
+                        "y_mil": "2200.000000",
+                        "y_mm": "55.880000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "1850.000000",
+                        "x_mm": "46.990000",
+                        "y_mil": "2100.000000",
+                        "y_mm": "53.340000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "1750.000000",
+                        "x_mm": "44.450000",
+                        "y_mil": "2200.000000",
+                        "y_mm": "55.880000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "1750.000000",
+                        "x_mm": "44.450000",
+                        "y_mil": "2100.000000",
+                        "y_mm": "53.340000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "1650.000000",
+                        "x_mm": "41.910000",
+                        "y_mil": "2200.000000",
+                        "y_mm": "55.880000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "1650.000000",
+                        "x_mm": "41.910000",
+                        "y_mil": "2100.000000",
+                        "y_mm": "53.340000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "1550.000000",
+                        "x_mm": "39.370000",
+                        "y_mil": "2200.000000",
+                        "y_mm": "55.880000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "1550.000000",
+                        "x_mm": "39.370000",
+                        "y_mil": "2100.000000",
+                        "y_mm": "53.340000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "1450.000000",
+                        "x_mm": "36.830000",
+                        "y_mil": "2200.000000",
+                        "y_mm": "55.880000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "1450.000000",
+                        "x_mm": "36.830000",
+                        "y_mil": "2100.000000",
+                        "y_mm": "53.340000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "2600.000000",
+                        "x_mm": "66.040000",
+                        "y_mil": "1950.000000",
+                        "y_mm": "49.530000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "2600.000000",
+                        "x_mm": "66.040000",
+                        "y_mil": "1850.000000",
+                        "y_mm": "46.990000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "2600.000000",
+                        "x_mm": "66.040000",
+                        "y_mil": "1750.000000",
+                        "y_mm": "44.450000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "2600.000000",
+                        "x_mm": "66.040000",
+                        "y_mil": "1650.000000",
+                        "y_mm": "41.910000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "2600.000000",
+                        "x_mm": "66.040000",
+                        "y_mil": "1550.000000",
+                        "y_mm": "39.370000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "2600.000000",
+                        "x_mm": "66.040000",
+                        "y_mil": "1450.000000",
+                        "y_mm": "36.830000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "2600.000000",
+                        "x_mm": "66.040000",
+                        "y_mil": "1350.000000",
+                        "y_mm": "34.290000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "2600.000000",
+                        "x_mm": "66.040000",
+                        "y_mil": "1250.000000",
+                        "y_mm": "31.750000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "150.000000",
+                        "x_mm": "3.810000",
+                        "y_mil": "525.000000",
+                        "y_mm": "13.335000"
+                    },
+                    {
+                        "diameter_mil": "39.370079",
+                        "diameter_mm": "1.000000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "150.000000",
+                        "x_mm": "3.810000",
+                        "y_mil": "625.000000",
+                        "y_mm": "15.875000"
                     }
                 ],
                 "max_diameter_mil": "39.370079",
@@ -1820,50 +1873,6 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "5000.000000",
-                        "x_mm": "127.000000",
-                        "y_mil": "4400.000000",
-                        "y_mm": "111.760000"
-                    },
-                    {
-                        "diameter_mil": "32.000000",
-                        "diameter_mm": "0.812800",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "5000.000000",
-                        "x_mm": "127.000000",
-                        "y_mil": "4500.000000",
-                        "y_mm": "114.300000"
-                    },
-                    {
-                        "diameter_mil": "32.000000",
-                        "diameter_mm": "0.812800",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "4900.000000",
-                        "x_mm": "124.460000",
-                        "y_mil": "4500.000000",
-                        "y_mm": "114.300000"
-                    },
-                    {
-                        "diameter_mil": "32.000000",
-                        "diameter_mm": "0.812800",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3150.000000",
-                        "x_mm": "80.010000",
-                        "y_mil": "4250.000000",
-                        "y_mm": "107.950000"
-                    },
-                    {
-                        "diameter_mil": "32.000000",
-                        "diameter_mm": "0.812800",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
                         "x_mil": "3150.000000",
                         "x_mm": "80.010000",
                         "y_mil": "4350.000000",
@@ -1919,6 +1928,17 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
+                        "x_mil": "5300.000000",
+                        "x_mm": "134.620000",
+                        "y_mil": "4500.000000",
+                        "y_mm": "114.300000"
+                    },
+                    {
+                        "diameter_mil": "32.000000",
+                        "diameter_mm": "0.812800",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
                         "x_mil": "5400.000000",
                         "x_mm": "137.160000",
                         "y_mil": "4400.000000",
@@ -1941,10 +1961,43 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "5300.000000",
-                        "x_mm": "134.620000",
+                        "x_mil": "5000.000000",
+                        "x_mm": "127.000000",
+                        "y_mil": "4400.000000",
+                        "y_mm": "111.760000"
+                    },
+                    {
+                        "diameter_mil": "32.000000",
+                        "diameter_mm": "0.812800",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "5000.000000",
+                        "x_mm": "127.000000",
                         "y_mil": "4500.000000",
                         "y_mm": "114.300000"
+                    },
+                    {
+                        "diameter_mil": "32.000000",
+                        "diameter_mm": "0.812800",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "4900.000000",
+                        "x_mm": "124.460000",
+                        "y_mil": "4500.000000",
+                        "y_mm": "114.300000"
+                    },
+                    {
+                        "diameter_mil": "32.000000",
+                        "diameter_mm": "0.812800",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "3150.000000",
+                        "x_mm": "80.010000",
+                        "y_mil": "4250.000000",
+                        "y_mm": "107.950000"
                     }
                 ],
                 "max_diameter_mil": "32.000000",
@@ -1961,8 +2014,8 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "4500.000000",
-                        "x_mm": "114.300000",
+                        "x_mil": "4424.803150",
+                        "x_mm": "112.390000",
                         "y_mil": "3392.519685",
                         "y_mm": "86.170000"
                     },
@@ -1972,10 +2025,10 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "4575.196850",
-                        "x_mm": "116.210000",
-                        "y_mil": "3392.519685",
-                        "y_mm": "86.170000"
+                        "x_mil": "3400.000000",
+                        "x_mm": "86.360000",
+                        "y_mil": "3442.519685",
+                        "y_mm": "87.440000"
                     },
                     {
                         "diameter_mil": "31.496063",
@@ -2005,32 +2058,10 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "5524.803150",
-                        "x_mm": "140.330000",
-                        "y_mil": "3442.519685",
-                        "y_mm": "87.440000"
-                    },
-                    {
-                        "diameter_mil": "31.496063",
-                        "diameter_mm": "0.800000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "4424.803150",
-                        "x_mm": "112.390000",
+                        "x_mil": "4500.000000",
+                        "x_mm": "114.300000",
                         "y_mil": "3392.519685",
                         "y_mm": "86.170000"
-                    },
-                    {
-                        "diameter_mil": "31.496063",
-                        "diameter_mm": "0.800000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3400.000000",
-                        "x_mm": "86.360000",
-                        "y_mil": "3442.519685",
-                        "y_mm": "87.440000"
                     },
                     {
                         "diameter_mil": "31.496063",
@@ -2053,6 +2084,28 @@
                         "x_mm": "88.270000",
                         "y_mil": "3442.519685",
                         "y_mm": "87.440000"
+                    },
+                    {
+                        "diameter_mil": "31.496063",
+                        "diameter_mm": "0.800000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "4575.196850",
+                        "x_mm": "116.210000",
+                        "y_mil": "3392.519685",
+                        "y_mm": "86.170000"
+                    },
+                    {
+                        "diameter_mil": "31.496063",
+                        "diameter_mm": "0.800000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "5524.803150",
+                        "x_mm": "140.330000",
+                        "y_mil": "3442.519685",
+                        "y_mm": "87.440000"
                     }
                 ],
                 "max_diameter_mil": "31.496063",
@@ -2069,10 +2122,10 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "5250.000000",
-                        "x_mm": "133.350000",
-                        "y_mil": "2625.000000",
-                        "y_mm": "66.675000"
+                        "x_mil": "5528.149606",
+                        "x_mm": "140.415000",
+                        "y_mil": "2663.976378",
+                        "y_mm": "67.665000"
                     },
                     {
                         "diameter_mil": "19.685039",
@@ -2080,10 +2133,10 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "5950.000000",
-                        "x_mm": "151.130000",
-                        "y_mil": "2625.000000",
-                        "y_mm": "66.675000"
+                        "x_mil": "5481.889764",
+                        "x_mm": "139.240000",
+                        "y_mil": "2678.740157",
+                        "y_mm": "68.040000"
                     },
                     {
                         "diameter_mil": "19.685039",
@@ -2091,10 +2144,10 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "5950.000000",
-                        "x_mm": "151.130000",
-                        "y_mil": "2575.000000",
-                        "y_mm": "65.405000"
+                        "x_mil": "5429.724409",
+                        "x_mm": "137.915000",
+                        "y_mil": "2678.740157",
+                        "y_mm": "68.040000"
                     },
                     {
                         "diameter_mil": "19.685039",
@@ -2102,10 +2155,21 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "5250.000000",
-                        "x_mm": "133.350000",
-                        "y_mil": "2575.000000",
-                        "y_mm": "65.405000"
+                        "x_mil": "5376.574803",
+                        "x_mm": "136.565000",
+                        "y_mil": "2678.740157",
+                        "y_mm": "68.040000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "5324.409449",
+                        "x_mm": "135.240000",
+                        "y_mil": "2678.740157",
+                        "y_mm": "68.040000"
                     },
                     {
                         "diameter_mil": "19.685039",
@@ -2115,690 +2179,8 @@
                         "start_layer": 1,
                         "x_mil": "5278.149606",
                         "x_mm": "134.065000",
-                        "y_mil": "2536.023622",
-                        "y_mm": "64.415000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3623.425197",
-                        "x_mm": "92.035000",
-                        "y_mil": "2521.259843",
-                        "y_mm": "64.040000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3675.590551",
-                        "x_mm": "93.360000",
-                        "y_mil": "2521.259843",
-                        "y_mm": "64.040000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3721.850394",
-                        "x_mm": "94.535000",
-                        "y_mil": "2536.023622",
-                        "y_mm": "64.415000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3078.149606",
-                        "x_mm": "78.185000",
                         "y_mil": "2663.976378",
                         "y_mm": "67.665000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3124.409449",
-                        "x_mm": "79.360000",
-                        "y_mil": "2678.740157",
-                        "y_mm": "68.040000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3176.574803",
-                        "x_mm": "80.685000",
-                        "y_mil": "2678.740157",
-                        "y_mm": "68.040000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3229.724409",
-                        "x_mm": "82.035000",
-                        "y_mil": "2678.740157",
-                        "y_mm": "68.040000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3281.889764",
-                        "x_mm": "83.360000",
-                        "y_mil": "2678.740157",
-                        "y_mm": "68.040000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3328.149606",
-                        "x_mm": "84.535000",
-                        "y_mil": "2663.976378",
-                        "y_mm": "67.665000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3356.692913",
-                        "x_mm": "85.260000",
-                        "y_mil": "2624.606299",
-                        "y_mm": "66.665000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3356.692913",
-                        "x_mm": "85.260000",
-                        "y_mil": "2575.393701",
-                        "y_mm": "65.415000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3328.149606",
-                        "x_mm": "84.535000",
-                        "y_mil": "2536.023622",
-                        "y_mm": "64.415000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3721.850394",
-                        "x_mm": "94.535000",
-                        "y_mil": "2663.976378",
-                        "y_mm": "67.665000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3675.590551",
-                        "x_mm": "93.360000",
-                        "y_mil": "2678.740157",
-                        "y_mm": "68.040000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3623.425197",
-                        "x_mm": "92.035000",
-                        "y_mil": "2678.740157",
-                        "y_mm": "68.040000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3281.889764",
-                        "x_mm": "83.360000",
-                        "y_mil": "2521.259843",
-                        "y_mm": "64.040000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3229.724409",
-                        "x_mm": "82.035000",
-                        "y_mil": "2521.259843",
-                        "y_mm": "64.040000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3176.574803",
-                        "x_mm": "80.685000",
-                        "y_mil": "2521.259843",
-                        "y_mm": "64.040000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3124.409449",
-                        "x_mm": "79.360000",
-                        "y_mil": "2521.259843",
-                        "y_mm": "64.040000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3078.149606",
-                        "x_mm": "78.185000",
-                        "y_mil": "2536.023622",
-                        "y_mm": "64.415000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3050.000000",
-                        "x_mm": "77.470000",
-                        "y_mil": "2575.000000",
-                        "y_mm": "65.405000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3571.259843",
-                        "x_mm": "90.710000",
-                        "y_mil": "2678.740157",
-                        "y_mm": "68.040000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3518.110236",
-                        "x_mm": "89.360000",
-                        "y_mil": "2678.740157",
-                        "y_mm": "68.040000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3471.850394",
-                        "x_mm": "88.185000",
-                        "y_mil": "2663.976378",
-                        "y_mm": "67.665000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3443.307087",
-                        "x_mm": "87.460000",
-                        "y_mil": "2624.606299",
-                        "y_mm": "66.665000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3443.307087",
-                        "x_mm": "87.460000",
-                        "y_mil": "2575.393701",
-                        "y_mm": "65.415000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3471.850394",
-                        "x_mm": "88.185000",
-                        "y_mil": "2536.023622",
-                        "y_mm": "64.415000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3750.000000",
-                        "x_mm": "95.250000",
-                        "y_mil": "2575.000000",
-                        "y_mm": "65.405000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3750.000000",
-                        "x_mm": "95.250000",
-                        "y_mil": "2625.000000",
-                        "y_mm": "66.675000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "3050.000000",
-                        "x_mm": "77.470000",
-                        "y_mil": "2625.000000",
-                        "y_mm": "66.675000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "4821.850394",
-                        "x_mm": "122.475000",
-                        "y_mil": "2613.976378",
-                        "y_mm": "66.395000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "4775.590551",
-                        "x_mm": "121.300000",
-                        "y_mil": "2628.740157",
-                        "y_mm": "66.770000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "4723.425197",
-                        "x_mm": "119.975000",
-                        "y_mil": "2628.740157",
-                        "y_mm": "66.770000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "4671.259843",
-                        "x_mm": "118.650000",
-                        "y_mil": "2628.740157",
-                        "y_mm": "66.770000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "4618.110236",
-                        "x_mm": "117.300000",
-                        "y_mil": "2628.740157",
-                        "y_mm": "66.770000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "4571.850394",
-                        "x_mm": "116.125000",
-                        "y_mil": "2613.976378",
-                        "y_mm": "66.395000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "4543.307087",
-                        "x_mm": "115.400000",
-                        "y_mil": "2574.606299",
-                        "y_mm": "65.395000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "4543.307087",
-                        "x_mm": "115.400000",
-                        "y_mil": "2525.393701",
-                        "y_mm": "64.145000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "4571.850394",
-                        "x_mm": "116.125000",
-                        "y_mil": "2486.023622",
-                        "y_mm": "63.145000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "4618.110236",
-                        "x_mm": "117.300000",
-                        "y_mil": "2471.259843",
-                        "y_mm": "62.770000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "4670.275591",
-                        "x_mm": "118.625000",
-                        "y_mil": "2471.259843",
-                        "y_mm": "62.770000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "4723.425197",
-                        "x_mm": "119.975000",
-                        "y_mil": "2471.259843",
-                        "y_mm": "62.770000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "4775.590551",
-                        "x_mm": "121.300000",
-                        "y_mil": "2471.259843",
-                        "y_mm": "62.770000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "4821.850394",
-                        "x_mm": "122.475000",
-                        "y_mil": "2486.023622",
-                        "y_mm": "63.145000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "4178.149606",
-                        "x_mm": "106.125000",
-                        "y_mil": "2613.976378",
-                        "y_mm": "66.395000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "4224.409449",
-                        "x_mm": "107.300000",
-                        "y_mil": "2628.740157",
-                        "y_mm": "66.770000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "4276.574803",
-                        "x_mm": "108.625000",
-                        "y_mil": "2628.740157",
-                        "y_mm": "66.770000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "4329.724409",
-                        "x_mm": "109.975000",
-                        "y_mil": "2628.740157",
-                        "y_mm": "66.770000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "4381.889764",
-                        "x_mm": "111.300000",
-                        "y_mil": "2628.740157",
-                        "y_mm": "66.770000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "4428.149606",
-                        "x_mm": "112.475000",
-                        "y_mil": "2613.976378",
-                        "y_mm": "66.395000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "4456.692913",
-                        "x_mm": "113.200000",
-                        "y_mil": "2574.606299",
-                        "y_mm": "65.395000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "4456.692913",
-                        "x_mm": "113.200000",
-                        "y_mil": "2525.393701",
-                        "y_mm": "64.145000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "4428.149606",
-                        "x_mm": "112.475000",
-                        "y_mil": "2486.023622",
-                        "y_mm": "63.145000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "4381.889764",
-                        "x_mm": "111.300000",
-                        "y_mil": "2471.259843",
-                        "y_mm": "62.770000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "4329.724409",
-                        "x_mm": "109.975000",
-                        "y_mil": "2471.259843",
-                        "y_mm": "62.770000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "4276.574803",
-                        "x_mm": "108.625000",
-                        "y_mil": "2471.259843",
-                        "y_mm": "62.770000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "4224.409449",
-                        "x_mm": "107.300000",
-                        "y_mil": "2471.259843",
-                        "y_mm": "62.770000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "4178.149606",
-                        "x_mm": "106.125000",
-                        "y_mil": "2486.023622",
-                        "y_mm": "63.145000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "4150.000000",
-                        "x_mm": "105.410000",
-                        "y_mil": "2525.000000",
-                        "y_mm": "64.135000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "4850.000000",
-                        "x_mm": "123.190000",
-                        "y_mil": "2525.000000",
-                        "y_mm": "64.135000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "4850.000000",
-                        "x_mm": "123.190000",
-                        "y_mil": "2575.000000",
-                        "y_mm": "65.405000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "4150.000000",
-                        "x_mm": "105.410000",
-                        "y_mil": "2575.000000",
-                        "y_mm": "65.405000"
                     },
                     {
                         "diameter_mil": "19.685039",
@@ -2808,94 +2190,6 @@
                         "start_layer": 1,
                         "x_mil": "5921.850394",
                         "x_mm": "150.415000",
-                        "y_mil": "2663.976378",
-                        "y_mm": "67.665000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "5875.590551",
-                        "x_mm": "149.240000",
-                        "y_mil": "2678.740157",
-                        "y_mm": "68.040000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "5823.425197",
-                        "x_mm": "147.915000",
-                        "y_mil": "2678.740157",
-                        "y_mm": "68.040000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "5771.259843",
-                        "x_mm": "146.590000",
-                        "y_mil": "2678.740157",
-                        "y_mm": "68.040000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "5718.110236",
-                        "x_mm": "145.240000",
-                        "y_mil": "2678.740157",
-                        "y_mm": "68.040000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "5671.850394",
-                        "x_mm": "144.065000",
-                        "y_mil": "2663.976378",
-                        "y_mm": "67.665000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "5643.307087",
-                        "x_mm": "143.340000",
-                        "y_mil": "2624.606299",
-                        "y_mm": "66.665000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "5643.307087",
-                        "x_mm": "143.340000",
-                        "y_mil": "2575.393701",
-                        "y_mm": "65.415000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "5671.850394",
-                        "x_mm": "144.065000",
                         "y_mil": "2536.023622",
                         "y_mm": "64.415000"
                     },
@@ -2905,8 +2199,19 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "5718.110236",
-                        "x_mm": "145.240000",
+                        "x_mil": "5875.590551",
+                        "x_mm": "149.240000",
+                        "y_mil": "2521.259843",
+                        "y_mm": "64.040000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "5823.425197",
+                        "x_mm": "147.915000",
                         "y_mil": "2521.259843",
                         "y_mm": "64.040000"
                     },
@@ -2927,8 +2232,8 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "5823.425197",
-                        "x_mm": "147.915000",
+                        "x_mil": "5718.110236",
+                        "x_mm": "145.240000",
                         "y_mil": "2521.259843",
                         "y_mm": "64.040000"
                     },
@@ -2938,19 +2243,8 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "5875.590551",
-                        "x_mm": "149.240000",
-                        "y_mil": "2521.259843",
-                        "y_mm": "64.040000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "5921.850394",
-                        "x_mm": "150.415000",
+                        "x_mil": "5671.850394",
+                        "x_mm": "144.065000",
                         "y_mil": "2536.023622",
                         "y_mm": "64.415000"
                     },
@@ -2960,10 +2254,10 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "5278.149606",
-                        "x_mm": "134.065000",
-                        "y_mil": "2663.976378",
-                        "y_mm": "67.665000"
+                        "x_mil": "5643.307087",
+                        "x_mm": "143.340000",
+                        "y_mil": "2575.393701",
+                        "y_mm": "65.415000"
                     },
                     {
                         "diameter_mil": "19.685039",
@@ -2971,65 +2265,626 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "5324.409449",
-                        "x_mm": "135.240000",
-                        "y_mil": "2678.740157",
-                        "y_mm": "68.040000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "5376.574803",
-                        "x_mm": "136.565000",
-                        "y_mil": "2678.740157",
-                        "y_mm": "68.040000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "5429.724409",
-                        "x_mm": "137.915000",
-                        "y_mil": "2678.740157",
-                        "y_mm": "68.040000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "5481.889764",
-                        "x_mm": "139.240000",
-                        "y_mil": "2678.740157",
-                        "y_mm": "68.040000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "5528.149606",
-                        "x_mm": "140.415000",
-                        "y_mil": "2663.976378",
-                        "y_mm": "67.665000"
-                    },
-                    {
-                        "diameter_mil": "19.685039",
-                        "diameter_mm": "0.500000",
-                        "drill_type": "PTH",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "5556.692913",
-                        "x_mm": "141.140000",
+                        "x_mil": "5643.307087",
+                        "x_mm": "143.340000",
                         "y_mil": "2624.606299",
                         "y_mm": "66.665000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "5671.850394",
+                        "x_mm": "144.065000",
+                        "y_mil": "2663.976378",
+                        "y_mm": "67.665000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "5718.110236",
+                        "x_mm": "145.240000",
+                        "y_mil": "2678.740157",
+                        "y_mm": "68.040000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "5771.259843",
+                        "x_mm": "146.590000",
+                        "y_mil": "2678.740157",
+                        "y_mm": "68.040000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "5823.425197",
+                        "x_mm": "147.915000",
+                        "y_mil": "2678.740157",
+                        "y_mm": "68.040000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "5875.590551",
+                        "x_mm": "149.240000",
+                        "y_mil": "2678.740157",
+                        "y_mm": "68.040000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "5921.850394",
+                        "x_mm": "150.415000",
+                        "y_mil": "2663.976378",
+                        "y_mm": "67.665000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "4150.000000",
+                        "x_mm": "105.410000",
+                        "y_mil": "2575.000000",
+                        "y_mm": "65.405000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "4850.000000",
+                        "x_mm": "123.190000",
+                        "y_mil": "2575.000000",
+                        "y_mm": "65.405000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "4850.000000",
+                        "x_mm": "123.190000",
+                        "y_mil": "2525.000000",
+                        "y_mm": "64.135000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "4150.000000",
+                        "x_mm": "105.410000",
+                        "y_mil": "2525.000000",
+                        "y_mm": "64.135000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "4178.149606",
+                        "x_mm": "106.125000",
+                        "y_mil": "2486.023622",
+                        "y_mm": "63.145000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "4224.409449",
+                        "x_mm": "107.300000",
+                        "y_mil": "2471.259843",
+                        "y_mm": "62.770000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "4276.574803",
+                        "x_mm": "108.625000",
+                        "y_mil": "2471.259843",
+                        "y_mm": "62.770000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "4329.724409",
+                        "x_mm": "109.975000",
+                        "y_mil": "2471.259843",
+                        "y_mm": "62.770000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "4381.889764",
+                        "x_mm": "111.300000",
+                        "y_mil": "2471.259843",
+                        "y_mm": "62.770000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "4428.149606",
+                        "x_mm": "112.475000",
+                        "y_mil": "2486.023622",
+                        "y_mm": "63.145000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "4456.692913",
+                        "x_mm": "113.200000",
+                        "y_mil": "2525.393701",
+                        "y_mm": "64.145000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "4456.692913",
+                        "x_mm": "113.200000",
+                        "y_mil": "2574.606299",
+                        "y_mm": "65.395000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "4428.149606",
+                        "x_mm": "112.475000",
+                        "y_mil": "2613.976378",
+                        "y_mm": "66.395000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "4381.889764",
+                        "x_mm": "111.300000",
+                        "y_mil": "2628.740157",
+                        "y_mm": "66.770000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "4329.724409",
+                        "x_mm": "109.975000",
+                        "y_mil": "2628.740157",
+                        "y_mm": "66.770000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "4276.574803",
+                        "x_mm": "108.625000",
+                        "y_mil": "2628.740157",
+                        "y_mm": "66.770000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "4224.409449",
+                        "x_mm": "107.300000",
+                        "y_mil": "2628.740157",
+                        "y_mm": "66.770000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "4178.149606",
+                        "x_mm": "106.125000",
+                        "y_mil": "2613.976378",
+                        "y_mm": "66.395000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "4821.850394",
+                        "x_mm": "122.475000",
+                        "y_mil": "2486.023622",
+                        "y_mm": "63.145000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "4775.590551",
+                        "x_mm": "121.300000",
+                        "y_mil": "2471.259843",
+                        "y_mm": "62.770000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "4723.425197",
+                        "x_mm": "119.975000",
+                        "y_mil": "2471.259843",
+                        "y_mm": "62.770000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "4670.275591",
+                        "x_mm": "118.625000",
+                        "y_mil": "2471.259843",
+                        "y_mm": "62.770000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "4618.110236",
+                        "x_mm": "117.300000",
+                        "y_mil": "2471.259843",
+                        "y_mm": "62.770000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "4571.850394",
+                        "x_mm": "116.125000",
+                        "y_mil": "2486.023622",
+                        "y_mm": "63.145000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "4543.307087",
+                        "x_mm": "115.400000",
+                        "y_mil": "2525.393701",
+                        "y_mm": "64.145000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "4543.307087",
+                        "x_mm": "115.400000",
+                        "y_mil": "2574.606299",
+                        "y_mm": "65.395000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "4571.850394",
+                        "x_mm": "116.125000",
+                        "y_mil": "2613.976378",
+                        "y_mm": "66.395000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "4618.110236",
+                        "x_mm": "117.300000",
+                        "y_mil": "2628.740157",
+                        "y_mm": "66.770000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "4671.259843",
+                        "x_mm": "118.650000",
+                        "y_mil": "2628.740157",
+                        "y_mm": "66.770000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "4723.425197",
+                        "x_mm": "119.975000",
+                        "y_mil": "2628.740157",
+                        "y_mm": "66.770000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "4775.590551",
+                        "x_mm": "121.300000",
+                        "y_mil": "2628.740157",
+                        "y_mm": "66.770000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "4821.850394",
+                        "x_mm": "122.475000",
+                        "y_mil": "2613.976378",
+                        "y_mm": "66.395000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "3050.000000",
+                        "x_mm": "77.470000",
+                        "y_mil": "2625.000000",
+                        "y_mm": "66.675000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "3750.000000",
+                        "x_mm": "95.250000",
+                        "y_mil": "2625.000000",
+                        "y_mm": "66.675000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "3750.000000",
+                        "x_mm": "95.250000",
+                        "y_mil": "2575.000000",
+                        "y_mm": "65.405000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "3078.149606",
+                        "x_mm": "78.185000",
+                        "y_mil": "2536.023622",
+                        "y_mm": "64.415000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "3124.409449",
+                        "x_mm": "79.360000",
+                        "y_mil": "2521.259843",
+                        "y_mm": "64.040000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "3176.574803",
+                        "x_mm": "80.685000",
+                        "y_mil": "2521.259843",
+                        "y_mm": "64.040000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "3229.724409",
+                        "x_mm": "82.035000",
+                        "y_mil": "2521.259843",
+                        "y_mm": "64.040000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "3281.889764",
+                        "x_mm": "83.360000",
+                        "y_mil": "2521.259843",
+                        "y_mm": "64.040000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "3328.149606",
+                        "x_mm": "84.535000",
+                        "y_mil": "2536.023622",
+                        "y_mm": "64.415000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "3356.692913",
+                        "x_mm": "85.260000",
+                        "y_mil": "2575.393701",
+                        "y_mm": "65.415000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "3356.692913",
+                        "x_mm": "85.260000",
+                        "y_mil": "2624.606299",
+                        "y_mm": "66.665000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "3328.149606",
+                        "x_mm": "84.535000",
+                        "y_mil": "2663.976378",
+                        "y_mm": "67.665000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "3050.000000",
+                        "x_mm": "77.470000",
+                        "y_mil": "2575.000000",
+                        "y_mm": "65.405000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "3471.850394",
+                        "x_mm": "88.185000",
+                        "y_mil": "2536.023622",
+                        "y_mm": "64.415000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "5250.000000",
+                        "x_mm": "133.350000",
+                        "y_mil": "2625.000000",
+                        "y_mm": "66.675000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "3721.850394",
+                        "x_mm": "94.535000",
+                        "y_mil": "2663.976378",
+                        "y_mm": "67.665000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "3675.590551",
+                        "x_mm": "93.360000",
+                        "y_mil": "2678.740157",
+                        "y_mm": "68.040000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "3623.425197",
+                        "x_mm": "92.035000",
+                        "y_mil": "2678.740157",
+                        "y_mm": "68.040000"
                     },
                     {
                         "diameter_mil": "19.685039",
@@ -3048,8 +2903,63 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "3570.275591",
-                        "x_mm": "90.685000",
+                        "x_mil": "3571.259843",
+                        "x_mm": "90.710000",
+                        "y_mil": "2678.740157",
+                        "y_mm": "68.040000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "5950.000000",
+                        "x_mm": "151.130000",
+                        "y_mil": "2625.000000",
+                        "y_mm": "66.675000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "5950.000000",
+                        "x_mm": "151.130000",
+                        "y_mil": "2575.000000",
+                        "y_mm": "65.405000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "5250.000000",
+                        "x_mm": "133.350000",
+                        "y_mil": "2575.000000",
+                        "y_mm": "65.405000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "5278.149606",
+                        "x_mm": "134.065000",
+                        "y_mil": "2536.023622",
+                        "y_mm": "64.415000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "5324.409449",
+                        "x_mm": "135.240000",
                         "y_mil": "2521.259843",
                         "y_mm": "64.040000"
                     },
@@ -3059,8 +2969,74 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "5556.692913",
-                        "x_mm": "141.140000",
+                        "x_mil": "5376.574803",
+                        "x_mm": "136.565000",
+                        "y_mil": "2521.259843",
+                        "y_mm": "64.040000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "5429.724409",
+                        "x_mm": "137.915000",
+                        "y_mil": "2521.259843",
+                        "y_mm": "64.040000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "5481.889764",
+                        "x_mm": "139.240000",
+                        "y_mil": "2521.259843",
+                        "y_mm": "64.040000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "3518.110236",
+                        "x_mm": "89.360000",
+                        "y_mil": "2678.740157",
+                        "y_mm": "68.040000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "3471.850394",
+                        "x_mm": "88.185000",
+                        "y_mil": "2663.976378",
+                        "y_mm": "67.665000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "3443.307087",
+                        "x_mm": "87.460000",
+                        "y_mil": "2624.606299",
+                        "y_mm": "66.665000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "3443.307087",
+                        "x_mm": "87.460000",
                         "y_mil": "2575.393701",
                         "y_mm": "65.415000"
                     },
@@ -3081,8 +3057,19 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "5481.889764",
-                        "x_mm": "139.240000",
+                        "x_mil": "5556.692913",
+                        "x_mm": "141.140000",
+                        "y_mil": "2575.393701",
+                        "y_mm": "65.415000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "3570.275591",
+                        "x_mm": "90.685000",
                         "y_mil": "2521.259843",
                         "y_mm": "64.040000"
                     },
@@ -3092,8 +3079,8 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "5429.724409",
-                        "x_mm": "137.915000",
+                        "x_mil": "3623.425197",
+                        "x_mm": "92.035000",
                         "y_mil": "2521.259843",
                         "y_mm": "64.040000"
                     },
@@ -3103,8 +3090,8 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "5376.574803",
-                        "x_mm": "136.565000",
+                        "x_mil": "3675.590551",
+                        "x_mm": "93.360000",
                         "y_mil": "2521.259843",
                         "y_mm": "64.040000"
                     },
@@ -3114,10 +3101,76 @@
                         "drill_type": "PTH",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "5324.409449",
-                        "x_mm": "135.240000",
-                        "y_mil": "2521.259843",
-                        "y_mm": "64.040000"
+                        "x_mil": "3721.850394",
+                        "x_mm": "94.535000",
+                        "y_mil": "2536.023622",
+                        "y_mm": "64.415000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "3078.149606",
+                        "x_mm": "78.185000",
+                        "y_mil": "2663.976378",
+                        "y_mm": "67.665000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "3124.409449",
+                        "x_mm": "79.360000",
+                        "y_mil": "2678.740157",
+                        "y_mm": "68.040000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "5556.692913",
+                        "x_mm": "141.140000",
+                        "y_mil": "2624.606299",
+                        "y_mm": "66.665000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "3176.574803",
+                        "x_mm": "80.685000",
+                        "y_mil": "2678.740157",
+                        "y_mm": "68.040000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "3229.724409",
+                        "x_mm": "82.035000",
+                        "y_mil": "2678.740157",
+                        "y_mm": "68.040000"
+                    },
+                    {
+                        "diameter_mil": "19.685039",
+                        "diameter_mm": "0.500000",
+                        "drill_type": "PTH",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "3281.889764",
+                        "x_mm": "83.360000",
+                        "y_mil": "2678.740157",
+                        "y_mm": "68.040000"
                     }
                 ],
                 "max_diameter_mil": "19.685039",
@@ -3128,50 +3181,6 @@
             {
                 "count": 57,
                 "drills": [
-                    {
-                        "diameter_mil": "13.779528",
-                        "diameter_mm": "0.350000",
-                        "drill_type": "VIA",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "2225.000000",
-                        "x_mm": "56.515000",
-                        "y_mil": "2600.000000",
-                        "y_mm": "66.040000"
-                    },
-                    {
-                        "diameter_mil": "13.779528",
-                        "diameter_mm": "0.350000",
-                        "drill_type": "VIA",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "2025.000000",
-                        "x_mm": "51.435000",
-                        "y_mil": "2400.000000",
-                        "y_mm": "60.960000"
-                    },
-                    {
-                        "diameter_mil": "13.779528",
-                        "diameter_mm": "0.350000",
-                        "drill_type": "VIA",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "350.000000",
-                        "x_mm": "8.890000",
-                        "y_mil": "2700.000000",
-                        "y_mm": "68.580000"
-                    },
-                    {
-                        "diameter_mil": "13.779528",
-                        "diameter_mm": "0.350000",
-                        "drill_type": "VIA",
-                        "end_layer": 16,
-                        "start_layer": 1,
-                        "x_mil": "2150.000000",
-                        "x_mm": "54.610000",
-                        "y_mil": "2600.000000",
-                        "y_mm": "66.040000"
-                    },
                     {
                         "diameter_mil": "13.779528",
                         "diameter_mm": "0.350000",
@@ -3266,10 +3275,10 @@
                         "drill_type": "VIA",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "1700.000000",
-                        "x_mm": "43.180000",
-                        "y_mil": "3150.000000",
-                        "y_mm": "80.010000"
+                        "x_mil": "1750.000000",
+                        "x_mm": "44.450000",
+                        "y_mil": "3200.000000",
+                        "y_mm": "81.280000"
                     },
                     {
                         "diameter_mil": "13.779528",
@@ -3343,10 +3352,10 @@
                         "drill_type": "VIA",
                         "end_layer": 16,
                         "start_layer": 1,
-                        "x_mil": "500.000000",
-                        "x_mm": "12.700000",
-                        "y_mil": "3900.000000",
-                        "y_mm": "99.060000"
+                        "x_mil": "2225.000000",
+                        "x_mm": "56.515000",
+                        "y_mil": "2600.000000",
+                        "y_mm": "66.040000"
                     },
                     {
                         "diameter_mil": "13.779528",
@@ -3400,8 +3409,8 @@
                         "start_layer": 1,
                         "x_mil": "2225.000000",
                         "x_mm": "56.515000",
-                        "y_mil": "3200.000000",
-                        "y_mm": "81.280000"
+                        "y_mil": "3300.000000",
+                        "y_mm": "83.820000"
                     },
                     {
                         "diameter_mil": "13.779528",
@@ -3433,8 +3442,8 @@
                         "start_layer": 1,
                         "x_mil": "2187.007874",
                         "x_mm": "55.550000",
-                        "y_mil": "3125.110236",
-                        "y_mm": "79.377800"
+                        "y_mil": "3225.110236",
+                        "y_mm": "81.917800"
                     },
                     {
                         "diameter_mil": "13.779528",
@@ -3466,8 +3475,8 @@
                         "start_layer": 1,
                         "x_mil": "2050.000000",
                         "x_mm": "52.070000",
-                        "y_mil": "3175.000000",
-                        "y_mm": "80.645000"
+                        "y_mil": "3275.000000",
+                        "y_mm": "83.185000"
                     },
                     {
                         "diameter_mil": "13.779528",
@@ -3510,8 +3519,8 @@
                         "start_layer": 1,
                         "x_mil": "2175.000000",
                         "x_mm": "55.245000",
-                        "y_mil": "3200.000000",
-                        "y_mm": "81.280000"
+                        "y_mil": "3300.000000",
+                        "y_mm": "83.820000"
                     },
                     {
                         "diameter_mil": "13.779528",
@@ -3754,6 +3763,50 @@
                         "x_mm": "48.895000",
                         "y_mil": "2475.000000",
                         "y_mm": "62.865000"
+                    },
+                    {
+                        "diameter_mil": "13.779528",
+                        "diameter_mm": "0.350000",
+                        "drill_type": "VIA",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "2025.000000",
+                        "x_mm": "51.435000",
+                        "y_mil": "2400.000000",
+                        "y_mm": "60.960000"
+                    },
+                    {
+                        "diameter_mil": "13.779528",
+                        "diameter_mm": "0.350000",
+                        "drill_type": "VIA",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "350.000000",
+                        "x_mm": "8.890000",
+                        "y_mil": "2700.000000",
+                        "y_mm": "68.580000"
+                    },
+                    {
+                        "diameter_mil": "13.779528",
+                        "diameter_mm": "0.350000",
+                        "drill_type": "VIA",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "2150.000000",
+                        "x_mm": "54.610000",
+                        "y_mil": "2600.000000",
+                        "y_mm": "66.040000"
+                    },
+                    {
+                        "diameter_mil": "13.779528",
+                        "diameter_mm": "0.350000",
+                        "drill_type": "VIA",
+                        "end_layer": 16,
+                        "start_layer": 1,
+                        "x_mil": "500.000000",
+                        "x_mm": "12.700000",
+                        "y_mil": "3900.000000",
+                        "y_mm": "99.060000"
                     }
                 ],
                 "max_diameter_mil": "13.779528",
@@ -3763,5 +3816,5 @@
             }
         ]
     },
-    "timestamp": "2020-07-16T14:22:13Z"
+    "timestamp": "2020-07-16T18:35:47Z"
 }
