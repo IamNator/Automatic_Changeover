@@ -14299,8 +14299,8 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <instance part="P+6" gate="1" x="10.16" y="68.58" smashed="yes">
 <attribute name="VALUE" x="7.62" y="63.5" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="GND9" gate="1" x="2.54" y="48.26" smashed="yes">
-<attribute name="VALUE" x="0" y="45.72" size="1.778" layer="96"/>
+<instance part="GND9" gate="1" x="2.54" y="45.72" smashed="yes">
+<attribute name="VALUE" x="0" y="43.18" size="1.778" layer="96"/>
 </instance>
 <instance part="GND7" gate="1" x="-7.62" y="17.78" smashed="yes">
 <attribute name="VALUE" x="-10.16" y="15.24" size="1.778" layer="96"/>
@@ -14497,27 +14497,21 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <attribute name="VALUE" x="-45.72" y="-71.12" size="1.778" layer="96" rot="R270"/>
 </instance>
 <instance part="-SOURCE0" gate="1" x="-93.98" y="25.4" smashed="yes" rot="R90">
-<attribute name="NAME" x="-93.2942" y="9.017" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="-90.678" y="24.257" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="+SOURCE0" gate="1" x="-101.6" y="25.4" smashed="yes" rot="R90">
-<attribute name="NAME" x="-100.9142" y="9.017" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="-98.298" y="24.257" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="-SOURCE1" gate="1" x="-114.3" y="25.4" smashed="yes" rot="R90">
-<attribute name="NAME" x="-113.6142" y="9.017" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="-110.998" y="24.257" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="+SOURCE1" gate="1" x="-121.92" y="25.4" smashed="yes" rot="R90">
-<attribute name="NAME" x="-121.2342" y="9.017" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="-118.618" y="24.257" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="+SOURCE2" gate="1" x="-144.78" y="25.4" smashed="yes" rot="R90">
-<attribute name="NAME" x="-144.0942" y="9.017" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="-141.478" y="24.257" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="-SOURCE2" gate="1" x="-137.16" y="25.4" smashed="yes" rot="R90">
-<attribute name="NAME" x="-136.4742" y="9.017" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="-133.858" y="24.257" size="1.778" layer="96" rot="R90"/>
 </instance>
 </instances>
@@ -14619,6 +14613,7 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <pinref part="U$1" gate="G$1" pin="2"/>
 <wire x1="157.48" y1="-35.56" x2="167.64" y2="-35.56" width="0.1524" layer="91"/>
 <pinref part="P+2" gate="1" pin="+5V"/>
+<label x="154.94" y="-30.48" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="P+6" gate="1" pin="+5V"/>
@@ -15072,6 +15067,11 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <wire x1="-111.76" y1="-10.16" x2="-124.46" y2="-10.16" width="0.1524" layer="91"/>
 <label x="-137.16" y="-10.16" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="-SOURCE0" gate="1" pin="P"/>
+<wire x1="-93.98" y1="27.94" x2="-93.98" y2="30.48" width="0.1524" layer="91"/>
+<label x="-93.98" y="7.62" size="1.778" layer="95" rot="R90"/>
+</segment>
 </net>
 <net name="+SOURCE0" class="0">
 <segment>
@@ -15083,6 +15083,11 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <pinref part="K1" gate="1" pin="DS2"/>
 <wire x1="-111.76" y1="-27.94" x2="-124.46" y2="-27.94" width="0.1524" layer="91"/>
 <label x="-137.16" y="-27.94" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="+SOURCE0" gate="1" pin="P"/>
+<wire x1="-101.6" y1="27.94" x2="-101.6" y2="30.48" width="0.1524" layer="91"/>
+<label x="-101.6" y="7.62" size="1.778" layer="95" rot="R90"/>
 </segment>
 </net>
 <net name="IN0" class="0">
@@ -15155,6 +15160,11 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <wire x1="-124.46" y1="88.9" x2="-137.16" y2="88.9" width="0.1524" layer="91"/>
 <label x="-149.86" y="88.9" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="-SOURCE1" gate="1" pin="P"/>
+<wire x1="-114.3" y1="27.94" x2="-114.3" y2="30.48" width="0.1524" layer="91"/>
+<label x="-114.3" y="7.62" size="1.778" layer="95" rot="R90"/>
+</segment>
 </net>
 <net name="+SOURCE1" class="0">
 <segment>
@@ -15168,6 +15178,11 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <wire x1="-63.5" y1="73.66" x2="-137.16" y2="73.66" width="0.1524" layer="91"/>
 <label x="-149.86" y="73.66" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="+SOURCE1" gate="1" pin="P"/>
+<wire x1="-121.92" y1="27.94" x2="-121.92" y2="30.48" width="0.1524" layer="91"/>
+<label x="-121.92" y="7.62" size="1.778" layer="95" rot="R90"/>
+</segment>
 </net>
 <net name="-SOURCE2" class="0">
 <segment>
@@ -15180,6 +15195,11 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <wire x1="-123.976571875" y1="105.89318125" x2="-137.16" y2="105.89318125" width="0.1524" layer="91"/>
 <label x="-149.86" y="106.68" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="-SOURCE2" gate="1" pin="P"/>
+<wire x1="-137.16" y1="27.94" x2="-137.16" y2="30.48" width="0.1524" layer="91"/>
+<label x="-137.16" y="7.62" size="1.778" layer="95" rot="R90"/>
+</segment>
 </net>
 <net name="+SOURCE2" class="0">
 <segment>
@@ -15191,6 +15211,11 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <pinref part="B4" gate="1" pin="AC2"/>
 <wire x1="-63.5" y1="93.98" x2="-137.16" y2="93.98" width="0.1524" layer="91"/>
 <label x="-149.86" y="93.98" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="+SOURCE2" gate="1" pin="P"/>
+<wire x1="-144.78" y1="27.94" x2="-144.78" y2="30.48" width="0.1524" layer="91"/>
+<label x="-144.78" y="7.62" size="1.778" layer="95" rot="R90"/>
 </segment>
 </net>
 <net name="N$58" class="0">
@@ -15389,6 +15414,7 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <segment>
 <pinref part="C3" gate="G$1" pin="2"/>
 <pinref part="GND9" gate="1" pin="GND"/>
+<wire x1="2.54" y1="48.26" x2="2.54" y2="50.8" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="SIM_RX" class="0">
