@@ -14630,6 +14630,8 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <wire x1="2.54" y1="60.96" x2="10.16" y2="60.96" width="0.1524" layer="91"/>
 <junction x="2.54" y="60.96"/>
 <label x="12.7" y="63.5" size="1.778" layer="95"/>
+<label x="-7.62" y="60.96" size="1.778" layer="95"/>
+<label x="-7.62" y="58.42" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="P+4" gate="1" pin="+5V"/>

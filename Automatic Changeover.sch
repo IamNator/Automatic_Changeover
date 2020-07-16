@@ -14092,7 +14092,8 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <variantdefs>
 </variantdefs>
 <classes>
-<class number="0" name="default" width="0" drill="0">
+<class number="0" name="default" width="0.2032" drill="0.2032">
+<clearance class="0" value="0.1524"/>
 </class>
 </classes>
 <parts>
