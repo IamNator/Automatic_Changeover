@@ -14179,10 +14179,6 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <part name="GND19" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND20" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="U$4" library="diy-modules" deviceset="LEVEL-SHIFTER-4CH" device=""/>
-<part name="GND21" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="P+10" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
-<part name="GND22" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="P+11" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device="" value="3V3"/>
 </parts>
 <sheets>
 <sheet>
@@ -14403,9 +14399,9 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <attribute name="NAME" x="81.28" y="129.54" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="81.28" y="127" size="1.778" layer="96" rot="MR0"/>
 </instance>
-<instance part="U$8" gate="G$1" x="152.4" y="106.68" smashed="yes" rot="MR0">
-<attribute name="NAME" x="165.1" y="132.08" size="1.778" layer="95" rot="MR0"/>
-<attribute name="VALUE" x="165.1" y="129.54" size="1.778" layer="96" rot="MR0"/>
+<instance part="U$8" gate="G$1" x="147.32" y="106.68" smashed="yes" rot="MR0">
+<attribute name="NAME" x="160.02" y="132.08" size="1.778" layer="95" rot="MR0"/>
+<attribute name="VALUE" x="160.02" y="129.54" size="1.778" layer="96" rot="MR0"/>
 </instance>
 <instance part="P+12" gate="1" x="121.92" y="68.58" smashed="yes">
 <attribute name="VALUE" x="124.46" y="68.58" size="1.778" layer="96" rot="R90"/>
@@ -14413,8 +14409,8 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <instance part="P+13" gate="1" x="213.36" y="66.04" smashed="yes">
 <attribute name="VALUE" x="215.9" y="66.04" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="P+14" gate="1" x="109.22" y="129.54" smashed="yes">
-<attribute name="VALUE" x="111.76" y="129.54" size="1.778" layer="96" rot="R90"/>
+<instance part="P+14" gate="1" x="106.68" y="129.54" smashed="yes">
+<attribute name="VALUE" x="109.22" y="129.54" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="P+15" gate="1" x="101.6" y="129.54" smashed="yes">
 <attribute name="VALUE" x="104.14" y="129.54" size="1.778" layer="96" rot="R90"/>
@@ -14431,8 +14427,8 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <instance part="GND16" gate="1" x="101.6" y="88.9" smashed="yes">
 <attribute name="VALUE" x="99.06" y="86.36" size="1.778" layer="96"/>
 </instance>
-<instance part="P+16" gate="VCC" x="180.34" y="104.14" smashed="yes">
-<attribute name="VALUE" x="180.34" y="106.68" size="1.778" layer="96" rot="R90"/>
+<instance part="P+16" gate="VCC" x="175.26" y="104.14" smashed="yes">
+<attribute name="VALUE" x="175.26" y="106.68" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="P+17" gate="VCC" x="195.58" y="66.04" smashed="yes">
 <attribute name="VALUE" x="195.58" y="66.04" size="1.778" layer="96" rot="R90"/>
@@ -14482,18 +14478,6 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <instance part="U$4" gate="G$1" x="-12.7" y="-58.42" smashed="yes">
 <attribute name="NAME" x="-22.86" y="-45.72" size="1.778" layer="95"/>
 <attribute name="VALUE" x="-22.86" y="-48.26" size="1.778" layer="96"/>
-</instance>
-<instance part="GND21" gate="1" x="10.16" y="-76.2" smashed="yes">
-<attribute name="VALUE" x="7.62" y="-78.74" size="1.778" layer="96"/>
-</instance>
-<instance part="P+10" gate="1" x="15.24" y="-76.2" smashed="yes" rot="MR180">
-<attribute name="VALUE" x="17.78" y="-68.58" size="1.778" layer="96" rot="MR270"/>
-</instance>
-<instance part="GND22" gate="1" x="-35.56" y="-78.74" smashed="yes">
-<attribute name="VALUE" x="-38.1" y="-81.28" size="1.778" layer="96"/>
-</instance>
-<instance part="P+11" gate="VCC" x="-43.18" y="-78.74" smashed="yes" rot="R180">
-<attribute name="VALUE" x="-45.72" y="-71.12" size="1.778" layer="96" rot="R270"/>
 </instance>
 </instances>
 <busses>
@@ -14711,8 +14695,8 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <segment>
 <pinref part="U$8" gate="G$1" pin="5V"/>
 <pinref part="P+14" gate="1" pin="+5V"/>
-<wire x1="134.62" y1="99.06" x2="109.22" y2="99.06" width="0.1524" layer="91"/>
-<wire x1="109.22" y1="99.06" x2="109.22" y2="127" width="0.1524" layer="91"/>
+<wire x1="129.54" y1="99.06" x2="106.68" y2="99.06" width="0.1524" layer="91"/>
+<wire x1="106.68" y1="99.06" x2="106.68" y2="127" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="P+13" gate="1" pin="+5V"/>
@@ -14751,12 +14735,6 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <pinref part="T1" gate="G$1" pin="C"/>
 <wire x1="-71.12" y1="-15.24" x2="-63.5" y2="-15.24" width="0.1524" layer="91"/>
 <junction x="-63.5" y="-15.24"/>
-</segment>
-<segment>
-<pinref part="P+10" gate="1" pin="+5V"/>
-<pinref part="U$4" gate="G$1" pin="HV"/>
-<wire x1="15.24" y1="-73.66" x2="15.24" y2="-58.42" width="0.1524" layer="91"/>
-<wire x1="15.24" y1="-58.42" x2="2.54" y2="-58.42" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="GND" class="0">
@@ -14852,7 +14830,7 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <pinref part="GND15" gate="1" pin="GND"/>
 <wire x1="119.38" y1="88.9" x2="119.38" y2="101.6" width="0.1524" layer="91"/>
 <pinref part="U$8" gate="G$1" pin="GND"/>
-<wire x1="119.38" y1="101.6" x2="134.62" y2="101.6" width="0.1524" layer="91"/>
+<wire x1="119.38" y1="101.6" x2="129.54" y2="101.6" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="GND14" gate="1" pin="GND"/>
@@ -14911,18 +14889,6 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <pinref part="GND12" gate="1" pin="GND"/>
 <wire x1="-86.36" y1="-83.82" x2="-86.36" y2="-86.36" width="0.1524" layer="91"/>
 <junction x="-86.36" y="-86.36"/>
-</segment>
-<segment>
-<pinref part="GND22" gate="1" pin="GND"/>
-<pinref part="U$4" gate="G$1" pin="GND.1"/>
-<wire x1="-35.56" y1="-76.2" x2="-35.56" y2="-60.96" width="0.1524" layer="91"/>
-<wire x1="-35.56" y1="-60.96" x2="-27.94" y2="-60.96" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="GND21" gate="1" pin="GND"/>
-<pinref part="U$4" gate="G$1" pin="GND.2"/>
-<wire x1="10.16" y1="-73.66" x2="10.16" y2="-60.96" width="0.1524" layer="91"/>
-<wire x1="10.16" y1="-60.96" x2="2.54" y2="-60.96" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="XT2" class="0">
@@ -15418,9 +15384,9 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <net name="3V3" class="0">
 <segment>
 <pinref part="U$8" gate="G$1" pin="3V3"/>
-<wire x1="170.18" y1="99.06" x2="180.34" y2="99.06" width="0.1524" layer="91"/>
+<wire x1="165.1" y1="99.06" x2="175.26" y2="99.06" width="0.1524" layer="91"/>
 <pinref part="P+16" gate="VCC" pin="VCC"/>
-<wire x1="180.34" y1="99.06" x2="180.34" y2="101.6" width="0.1524" layer="91"/>
+<wire x1="175.26" y1="99.06" x2="175.26" y2="101.6" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="U$6" gate="G$1" pin="3V3"/>
@@ -15444,8 +15410,8 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <net name="WIFI_RESET" class="0">
 <segment>
 <pinref part="U$8" gate="G$1" pin="RST"/>
-<wire x1="170.18" y1="116.84" x2="175.26" y2="116.84" width="0.1524" layer="91"/>
-<label x="175.26" y="116.84" size="1.778" layer="95"/>
+<wire x1="165.1" y1="116.84" x2="170.18" y2="116.84" width="0.1524" layer="91"/>
+<label x="170.18" y="116.84" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$15" class="0">
@@ -15506,12 +15472,6 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <wire x1="60.96" y1="5.08" x2="43.18" y2="5.08" width="0.1524" layer="91"/>
 <junction x="43.18" y="5.08"/>
 </segment>
-<segment>
-<pinref part="P+11" gate="VCC" pin="VCC"/>
-<pinref part="U$4" gate="G$1" pin="LV"/>
-<wire x1="-43.18" y1="-76.2" x2="-43.18" y2="-58.42" width="0.1524" layer="91"/>
-<wire x1="-43.18" y1="-58.42" x2="-27.94" y2="-58.42" width="0.1524" layer="91"/>
-</segment>
 </net>
 <net name="-OUTLET0" class="0">
 <segment>
@@ -15553,25 +15513,27 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <net name="TX_WIFI_BRD" class="0">
 <segment>
 <pinref part="U$8" gate="G$1" pin="TX"/>
-<wire x1="134.62" y1="116.84" x2="129.54" y2="116.84" width="0.1524" layer="91"/>
-<label x="114.3" y="116.84" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="U$4" gate="G$1" pin="LV2"/>
-<wire x1="-27.94" y1="-55.88" x2="-33.02" y2="-55.88" width="0.1524" layer="91"/>
-<label x="-48.26" y="-55.88" size="1.778" layer="95"/>
+<wire x1="129.54" y1="116.84" x2="124.46" y2="116.84" width="0.1524" layer="91"/>
+<label x="109.22" y="116.84" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="RX_WIFI_BRD" class="0">
 <segment>
 <pinref part="U$8" gate="G$1" pin="RX"/>
-<wire x1="134.62" y1="114.3" x2="129.54" y2="114.3" width="0.1524" layer="91"/>
-<label x="114.3" y="114.3" size="1.778" layer="95"/>
+<wire x1="129.54" y1="114.3" x2="124.46" y2="114.3" width="0.1524" layer="91"/>
+<label x="109.22" y="114.3" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="U$4" gate="G$1" pin="LV1"/>
 <wire x1="-27.94" y1="-53.34" x2="-33.02" y2="-53.34" width="0.1524" layer="91"/>
 <label x="-48.26" y="-53.34" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="TX_WIFI_BR" class="0">
+<segment>
+<pinref part="U$4" gate="G$1" pin="LV2"/>
+<wire x1="-27.94" y1="-55.88" x2="-33.02" y2="-55.88" width="0.1524" layer="91"/>
+<label x="-48.26" y="-55.88" size="1.778" layer="95"/>
 </segment>
 </net>
 </nets>
