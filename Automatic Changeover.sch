@@ -14601,6 +14601,7 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <pinref part="R1" gate="G$1" pin="1"/>
 <wire x1="53.34" y1="25.4" x2="53.34" y2="27.94" width="0.1524" layer="91"/>
 <junction x="53.34" y="25.4"/>
+<label x="50.8" y="22.86" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="+5V" class="0">
@@ -15203,9 +15204,9 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 </segment>
 <segment>
 <pinref part="B3" gate="1" pin="AC2"/>
-<wire x1="-63.5" y1="76.2" x2="-63.5" y2="73.66" width="0.1524" layer="91"/>
-<wire x1="-63.5" y1="73.66" x2="-137.16" y2="73.66" width="0.1524" layer="91"/>
-<label x="-149.86" y="73.66" size="1.778" layer="95"/>
+<wire x1="-63.5" y1="76.2" x2="-63.5" y2="78.74" width="0.1524" layer="91"/>
+<wire x1="-63.5" y1="78.74" x2="-137.16" y2="78.74" width="0.1524" layer="91"/>
+<label x="-152.4" y="78.74" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="+SOURCE1" gate="1" pin="P"/>
