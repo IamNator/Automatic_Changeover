@@ -14182,6 +14182,12 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <part name="P+10" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
 <part name="GND22" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="P+11" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device="" value="3V3"/>
+<part name="-SOURCE0" library="wirepad" library_urn="urn:adsk.eagle:library:412" deviceset="3,81/1,4" device="" package3d_urn="urn:adsk.eagle:package:30835/1"/>
+<part name="+SOURCE0" library="wirepad" library_urn="urn:adsk.eagle:library:412" deviceset="3,81/1,4" device="" package3d_urn="urn:adsk.eagle:package:30835/1"/>
+<part name="-SOURCE1" library="wirepad" library_urn="urn:adsk.eagle:library:412" deviceset="3,81/1,4" device="" package3d_urn="urn:adsk.eagle:package:30835/1"/>
+<part name="+SOURCE1" library="wirepad" library_urn="urn:adsk.eagle:library:412" deviceset="3,81/1,4" device="" package3d_urn="urn:adsk.eagle:package:30835/1"/>
+<part name="+SOURCE2" library="wirepad" library_urn="urn:adsk.eagle:library:412" deviceset="3,81/1,4" device="" package3d_urn="urn:adsk.eagle:package:30835/1"/>
+<part name="-SOURCE2" library="wirepad" library_urn="urn:adsk.eagle:library:412" deviceset="3,81/1,4" device="" package3d_urn="urn:adsk.eagle:package:30835/1"/>
 </parts>
 <sheets>
 <sheet>
@@ -14489,6 +14495,24 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 </instance>
 <instance part="P+11" gate="VCC" x="-43.18" y="-78.74" smashed="yes" rot="R180">
 <attribute name="VALUE" x="-45.72" y="-71.12" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="-SOURCE0" gate="1" x="-93.98" y="25.4" smashed="yes" rot="R90">
+<attribute name="VALUE" x="-90.678" y="24.257" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="+SOURCE0" gate="1" x="-101.6" y="25.4" smashed="yes" rot="R90">
+<attribute name="VALUE" x="-98.298" y="24.257" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="-SOURCE1" gate="1" x="-114.3" y="25.4" smashed="yes" rot="R90">
+<attribute name="VALUE" x="-110.998" y="24.257" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="+SOURCE1" gate="1" x="-121.92" y="25.4" smashed="yes" rot="R90">
+<attribute name="VALUE" x="-118.618" y="24.257" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="+SOURCE2" gate="1" x="-144.78" y="25.4" smashed="yes" rot="R90">
+<attribute name="VALUE" x="-141.478" y="24.257" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="-SOURCE2" gate="1" x="-137.16" y="25.4" smashed="yes" rot="R90">
+<attribute name="VALUE" x="-133.858" y="24.257" size="1.778" layer="96" rot="R90"/>
 </instance>
 </instances>
 <busses>
@@ -15042,6 +15066,11 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <wire x1="-111.76" y1="-10.16" x2="-124.46" y2="-10.16" width="0.1524" layer="91"/>
 <label x="-137.16" y="-10.16" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="-SOURCE0" gate="1" pin="P"/>
+<wire x1="-93.98" y1="27.94" x2="-93.98" y2="30.48" width="0.1524" layer="91"/>
+<label x="-93.98" y="7.62" size="1.778" layer="95" rot="R90"/>
+</segment>
 </net>
 <net name="+SOURCE0" class="0">
 <segment>
@@ -15053,6 +15082,11 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <pinref part="K1" gate="1" pin="DS2"/>
 <wire x1="-111.76" y1="-27.94" x2="-124.46" y2="-27.94" width="0.1524" layer="91"/>
 <label x="-137.16" y="-27.94" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="+SOURCE0" gate="1" pin="P"/>
+<wire x1="-101.6" y1="27.94" x2="-101.6" y2="30.48" width="0.1524" layer="91"/>
+<label x="-101.6" y="7.62" size="1.778" layer="95" rot="R90"/>
 </segment>
 </net>
 <net name="IN0" class="0">
@@ -15125,6 +15159,11 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <wire x1="-124.46" y1="88.9" x2="-137.16" y2="88.9" width="0.1524" layer="91"/>
 <label x="-149.86" y="88.9" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="-SOURCE1" gate="1" pin="P"/>
+<wire x1="-114.3" y1="27.94" x2="-114.3" y2="30.48" width="0.1524" layer="91"/>
+<label x="-114.3" y="7.62" size="1.778" layer="95" rot="R90"/>
+</segment>
 </net>
 <net name="+SOURCE1" class="0">
 <segment>
@@ -15138,6 +15177,11 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <wire x1="-63.5" y1="73.66" x2="-137.16" y2="73.66" width="0.1524" layer="91"/>
 <label x="-149.86" y="73.66" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="+SOURCE1" gate="1" pin="P"/>
+<wire x1="-121.92" y1="27.94" x2="-121.92" y2="30.48" width="0.1524" layer="91"/>
+<label x="-121.92" y="7.62" size="1.778" layer="95" rot="R90"/>
+</segment>
 </net>
 <net name="-SOURCE2" class="0">
 <segment>
@@ -15150,6 +15194,11 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <wire x1="-123.976571875" y1="105.89318125" x2="-137.16" y2="105.89318125" width="0.1524" layer="91"/>
 <label x="-149.86" y="106.68" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="-SOURCE2" gate="1" pin="P"/>
+<wire x1="-137.16" y1="27.94" x2="-137.16" y2="30.48" width="0.1524" layer="91"/>
+<label x="-137.16" y="7.62" size="1.778" layer="95" rot="R90"/>
+</segment>
 </net>
 <net name="+SOURCE2" class="0">
 <segment>
@@ -15161,6 +15210,11 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <pinref part="B4" gate="1" pin="AC2"/>
 <wire x1="-63.5" y1="93.98" x2="-137.16" y2="93.98" width="0.1524" layer="91"/>
 <label x="-149.86" y="93.98" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="+SOURCE2" gate="1" pin="P"/>
+<wire x1="-144.78" y1="27.94" x2="-144.78" y2="30.48" width="0.1524" layer="91"/>
+<label x="-144.78" y="7.62" size="1.778" layer="95" rot="R90"/>
 </segment>
 </net>
 <net name="N$58" class="0">
