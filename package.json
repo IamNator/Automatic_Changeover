@@ -2,15 +2,15 @@
   "name": "automatic_changeover",
   "version": "1.0.0",
   "description": "an automatic IOT enhanced changeover",
-  "main": "*.sch main.c  ",
+  "main": "",
   "scripts": {
-    "test": "eagle *.sch"
+    "test": "eagle ~/PCB/*.sch"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/IamNator/Automatic_Changeover.git"
   },
-  "author": "Nator Verinumbe & Aiyede Emmanuel",
+  "author": "",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IamNator/Automatic_Changeover/issues"
