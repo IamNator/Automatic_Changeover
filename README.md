@@ -1,1 +1,1 @@
-###Automatic Changeover 300Watts
+# Automatic Changeover
