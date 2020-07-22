@@ -134,7 +134,7 @@
 	  }
 \endcode
  *
- * \subsection twi_basic_use_case_setup_flow Workflow
+ * \subsection twi_basic_use_case_setup_flow Work flow
  * -# Ensure that board_init() has configured selected I/Os for TWI function.
  * -# Ensure that \ref conf_twim.h is present for the driver.
  *   - \note This file is only for the driver and should not be included by the

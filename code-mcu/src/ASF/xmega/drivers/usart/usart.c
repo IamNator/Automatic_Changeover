@@ -63,6 +63,7 @@
  * \retval true if the initialization was successfull
  * \retval false if the initialization failed (error in baud rate calculation)
  */
+
 bool usart_init_rs232(USART_t *usart, const usart_rs232_options_t *opt)
 {
 	bool result;
@@ -86,6 +87,7 @@ bool usart_init_rs232(USART_t *usart, const usart_rs232_options_t *opt)
  * \param usart The USART module.
  * \param opt The RS232 configuration option.
  */
+
 void usart_init_spi(USART_t *usart, const usart_spi_options_t *opt)
 {
 	ioport_pin_t sck_pin;
