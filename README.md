@@ -3,7 +3,7 @@ This project sets out to design a highly effective and efficient IOT enabled aut
 With improvements and modifications as time goes by, this project will design devices capable of allowing the user to monitor their household energy comsumption.
 
 # Files
-**3d-module**: contains fills of 3D design, (Fusion 360).   
+**3d-module**: contains files of 3D design, (Fusion 360).   
 **PCB**: PCB files, (EAGLE).   
 **code-mcu**: C program files, (ATMEL Studio).   
 **images**: Images of circuit, PCB and 3D designs.   
