@@ -15,14 +15,5 @@ With improvements and modifications as time goes by, this project will design de
  3. In the Clone with HTTPs section, click on **Download Zip file** to download this project as a zip file
 
 
-### Circuit Diagram
-<img src="https://github.com/IamNator/Automatic_Changeover/blob/master/images/Automatic%20Changeover.png" alt="Circuit Diagram" width="500" height="500" />
-
-### PCB FrontView
-<img src="https://github.com/IamNator/Automatic_Changeover/blob/master/images/Automatic%20Changeover1.png" alt="PCB FrontView" width="500" height="500" />
-
-### PCB BackView
-<img src="https://github.com/IamNator/Automatic_Changeover/blob/master/images/Automatic%20Changeover2.png" alt="PCB BackView" width="500" height="500" />
-
-### PCB Drillhole
-<img src="https://github.com/IamNator/Automatic_Changeover/blob/master/images/Automatic%20Changeover3.png" alt="PCB Drillhole" width="500" height="500" />
+### Sample Images
+<img src="https://github.com/IamNator/Automatic_Changeover/blob/master/images/Automatic%20Changeover.png" alt="Circuit Diagram" width="160" height="170" /> <img src="https://github.com/IamNator/Automatic_Changeover/blob/master/images/Automatic%20Changeover1.png" alt="PCB FrontView" width="200" height="170" /><img src="https://github.com/IamNator/Automatic_Changeover/blob/master/images/Automatic%20Changeover2.png" alt="PCB BackView" width="200" height="170" /> <img src="https://github.com/IamNator/Automatic_Changeover/blob/master/images/Automatic%20Changeover3.png" alt="PCB Drillhole" width="160" height="170" />
