@@ -16,13 +16,13 @@ With improvements and modifications as time goes by, this project will design de
 
 
 ### Circuit Diagram
-![Circuit Diagram](https://github.com/IamNator/Automatic_Changeover/blob/master/images/Automatic%20Changeover.png =100x100)
+<img src="https://github.com/IamNator/Automatic_Changeover/blob/master/images/Automatic%20Changeover.png" alt="Circuit Diagram" width="500" height="500" />
 
 ### PCB FrontView
-![PCB FrontView](https://github.com/IamNator/Automatic_Changeover/blob/master/images/Automatic%20Changeover1.png =100x100)
+<img src="https://github.com/IamNator/Automatic_Changeover/blob/master/images/Automatic%20Changeover1.png" alt="PCB FrontView" width="500" height="500" />
 
 ### PCB BackView
-![PCB BackView](https://github.com/IamNator/Automatic_Changeover/blob/master/images/Automatic%20Changeover2.png =100x100)
+<img src="https://github.com/IamNator/Automatic_Changeover/blob/master/images/Automatic%20Changeover2.png" alt="PCB BackView" width="500" height="500" />
 
 ### PCB Drillhole
-![PCB Drillhole](https://github.com/IamNator/Automatic_Changeover/blob/master/images/Automatic%20Changeover3.png =100x100)
+<img src="https://github.com/IamNator/Automatic_Changeover/blob/master/images/Automatic%20Changeover3.png" alt="PCB Drillhole" width="500" height="500" />
