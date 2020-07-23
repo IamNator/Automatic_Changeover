@@ -1,6 +1,6 @@
 # Automatic Changeover
-This project sets out to design a highly effective and efficient IOT enabled automatic changeover for small home.
-With improvements and modifications as time goes by, this project will design devices capable of allowing the user to monitor energy comsumption.
+This project sets out to design a highly effective and efficient IOT enabled automatic changeover for small homes.    
+With improvements and modifications as time goes by, this project will design devices capable of allowing the user to monitor their household energy comsumption.
 
 # Files
 **3d-module**: contains fills of 3D design, (Fusion 360).   
