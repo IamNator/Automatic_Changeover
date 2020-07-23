@@ -18,3 +18,10 @@ With improvements and modifications as time goes by, this project will design de
 ## Sample Images 
 <img src="https://github.com/IamNator/Automatic_Changeover/blob/master/images/Automatic%20Changeover.png" alt="Circuit Diagram" width="160" height="170" /> <img src="https://github.com/IamNator/Automatic_Changeover/blob/master/images/Automatic%20Changeover1.png" alt="PCB FrontView" width="200" height="170" /><img src="https://github.com/IamNator/Automatic_Changeover/blob/master/images/Automatic%20Changeover2.png" alt="PCB BackView" width="200" height="170" /> <img src="https://github.com/IamNator/Automatic_Changeover/blob/master/images/Automatic%20Changeover3.png" alt="PCB Drillhole" width="160" height="170" />
 
+
+
+
+
+
+
+<a href='https://ko-fi.com/S6S81YM4R' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
