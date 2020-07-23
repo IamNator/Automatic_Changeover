@@ -12,7 +12,7 @@ With improvements and modifications as time goes by, this project will design de
 
  1. Navigate to the main page of this repository.
  2. Under the repository name (Automatic_Changeover), click Clone or download.
- 3. In the Clone with HTTPs section, click on **Download Zip file** to download this project as a zip file
+ 3. In the Clone with HTTPs section, click on **Download Zip** to download this project as a zip file
 
 
 ## Sample Images 
