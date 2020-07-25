@@ -2,6 +2,8 @@
 # Automatically-generated file. Do not edit or delete the file
 ################################################################################
 
+src\mylib\conf_usart.c
+
 src\ASF\common\boards\user_board\init.c
 
 src\ASF\common\services\clock\xmega\sysclk.c

@@ -39,6 +39,46 @@
 /* Refer to the ADC driver for detailed documentation. */
 #define CONFIG_ADC_CALLBACK_ENABLE
 
+
+
+
+#include <adc.h>
+
+#define MY_ADC    ADCA
+#define MY_ADC_CH ADC_CH0
+
+void adc_init(void)
+{
+	struct adc_config adc_conf;
+	struct adc_channel_config adcch_conf;
+
+	adc_read_configuration(&MY_ADC, &adc_conf);
+	adcch_read_configuration(&MY_ADC, MY_ADC_CH, &adcch_conf);
+
+	adc_set_conversion_parameters(&adc_conf, ADC_SIGN_ON, ADC_RES_12,
+	ADC_REF_AREFA); 
+	adc_set_conversion_trigger(&adc_conf, ADC_TRIG_MANUAL, 1, 0);
+	adc_set_clock_rate(&adc_conf, 200000UL);
+
+	adcch_set_input(&adcch_conf, ADCCH_POS_PIN0, ADCCH_NEG_NONE, 1);
+
+	adc_write_configuration(&MY_ADC, &adc_conf);
+	adcch_write_configuration(&MY_ADC, MY_ADC_CH, &adcch_conf);
+}
+
+//in main code
+// uint16_t result;
+// 
+// adc_enable(&MY_ADC);
+// 
+// adc_start_conversion(&MY_ADC, MY_ADC_CH);
+// adc_wait_for_interrupt_flag(&MY_ADC, MY_ADC_CH);
+// 
+// result = adc_get_result(&MY_ADC, MY_ADC_CH);
+
+
+
+
 // #define CONFIG_ADC_CALLBACK_TYPE uint16_t
 
 // #define CONFIG_ADC_INTLVL        ADC_CH_INTLVL_LO_gc
